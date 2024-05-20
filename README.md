@@ -1,11 +1,11 @@
-<h1 align='center'>Proyecto Adalab Team Cine Freaks</h1>
+<h1 align='center'>Proyecto CinemExtract</h1>
 
 
 <img width="265" alt="logo_cine_peque" src="https://github.com/fernandaMarti/Proyecto-da-promo-H-modulo-2-team1-cine_freaks/assets/99440874/97ba0983-3376-4b44-83dd-9d29a827d062"> <img width="279" alt="logo" src="https://github.com/fernandaMarti/Proyecto-da-promo-H-modulo-2-team1-cine_freaks/assets/99440874/fa57d795-5213-4648-98fb-852bf3976090">
 
 
 
-<h2>Bienvenido al proyecto Proyecto CinemExtract</h2> La plataforma de streaming BHO se encuentra en una búsqueda constante para mejorar la calidad de su contenido y la satisfacción de sus usuarios. Nuestro proyecto consiste en aplicar técnicas de análisis de datos para identificar cuáles son las películas y cortometrajes más populares y mejor valorados desde 2010 hasta la fecha. Esto ayudará a BHO a tomar decisiones informadas sobre qué contenido promocionar y destacar en su plataforma.
+<h2>Bienvenido al proyecto CinemExtract</h2> La plataforma de streaming BHO se encuentra en una búsqueda constante para mejorar la calidad de su contenido y la satisfacción de sus usuarios. Nuestro proyecto consiste en aplicar técnicas de análisis de datos para identificar cuáles son las películas y cortometrajes más populares y mejor valorados desde 2010 hasta la fecha. Esto ayudará a BHO a tomar decisiones informadas sobre qué contenido promocionar y destacar en su plataforma.
 
 </br>
 </br>
