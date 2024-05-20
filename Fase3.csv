@@ -1,0 +1,817 @@
+nombre_actor,anno_nacimiento,peliculas,que_hace,premios
+Scott Arnold,,"Belle and Sebastian: The Party Line', 'None', 'None', 'None'",Reparto',
+Nathan Boreiko,,"Rodney Cecil: Psycho Hero', 'Sick and the Dead', 'None', 'None'",Reparto',
+Tj Carr,,"Vidas secretas', 'The Secret Life of Us', 'None', 'None'",Reparto',
+Jordy Dickens,,"Rodney Cecil: Psycho Hero', 'Reptchild', 'Sick and the Dead', 'None'","Reparto', 'Dirección'",
+Bill Fischer,,"Track 16', 'Rodney Cecil: Psycho Hero', 'Let There Be Life!', ""The Top 5 Reasons You Can't Blame...""","Reparto', 'Producción'",
+Ian Hagan,,"Rodney Cecil: Psycho Hero', 'None', 'None', 'None'",Reparto',
+Robert Harris,1957,"El escritor', 'El oficial y el espía', 'Múnich en vísperas de una guerra', 'Cónclave'","Guion', 'Producción', 'Reparto'",3
+Matt Holtry,,"Rodney Cecil: Psycho Hero', 'None', 'None', 'None'",Reparto',3
+Christopher Houldsworth,,"Remnants', 'Mixed Assumptions', 'Pray 2: The Woods', 'Dead End Job'","Reparto', 'Producción', 'Guion'",3
+Lela King,,"Rodney Cecil: Psycho Hero', 'None', 'None', 'None'",Reparto',3
+Ren Holly Liu,,"Object of Desire', 'In Your Light, Do We See Light', 'Fine China', 'Personal Assistant'",Reparto',3
+Alexandra Tobias,,"Austen Academy', 'None', 'None', 'None'",Reparto',3
+Sam Morgan,,"Shameless', 'American Woman', 'Miami Bici 2', 'Object of Desire'","Reparto', 'Guion', 'Dirección'",
+Joshua Polit,1987,"Cambiadas al nacer', 'Push', ""Devil's Couriers"", 'Object of Desire'",Reparto',
+Patrick Sanderson,,"Richie Rich Hustla', 'The Idol', 'Mike', 'Bite Size Halloween'","Reparto', 'Dirección', 'Guion'",1
+Josh Pafchek,,"""Honey Don't!"", 'Con amor, Victor', 'Runaways', 'Platónico'","Reparto', 'Guion', 'Dirección'",9
+Anishka Nawagamuwa,,"Object of Desire', 'None', 'None', 'None'",Reparto',9
+Maggie Mcgee,,"Tina', 'None', 'None', 'None'",Reparto',9
+Victoria Tucha,,"Object of Desire', 'None', 'None', 'None'",Reparto',9
+Shayan Siren,,"Object of Desire', 'None', 'None', 'None'",Reparto',
+Corey Camperchioli,,"Femme', 'Conexión asesinato', 'The Grey Matter Archives', 'A Window on the World'","Reparto', 'Guion', 'Localización'",
+Paul Castro Jr.,,"The Skeleton Twins', 'Personas, lugares y cosas', 'Sin límites', 'God Friended Me'","Reparto', 'Producción', 'Dirección'",1
+Donavon Dietz,,"El puente de los espías', 'Ley y orden: Unidad de Víctimas Especiales', 'Un muchacho llamado Norte', 'The 3 Year Old Bris'",Reparto',1
+Elizabeth Evans,,"FBI: Most Wanted', 'The Burned Photo', 'Redrum', 'Starfinder'","Reparto', 'Guion'",1
+Justin Rodriguez,,"Lone Star Enigma', 'American Terror Tales 3', 'Transmission from Hell', 'None'","Dirección', 'Reparto', 'Guion'",1
+Lilli Stein,,"La maravillosa Sra. Maisel', 'The Blacklist', 'Evil', 'None'",Reparto',1
+Jared Bajoras,,"Deference', 'The Gate Agent', 'NWL: The National Wrestling League', 'The Unsung'","Reparto', 'Producción', 'Guion'",
+Patrick Fetzko,,"The Unsung', 'NWL: The National Wrestling League', 'Significant Other', 'None'","Reparto', 'Equipos adicionales'",
+Samantha Strelitz,1986,"Red Dead Redemption II', 'Vinyl', 'DieRy', 'Pluralidad'",Reparto',
+Sé Marie Volk,1988,"Artificial Existence', 'Movers Ultimate', 'Unsinkable', 'Careful Not to Cry'","Reparto', 'Producción', 'Dirección'",2
+Dezz Peterson,,"Hosea: A Story of Hope and Forgiveness', 'Double Betrayal', 'Trapped', 'Trapped in the Elevator'","Producción', 'Guion', 'Dirección'",
+Imani Jackson,,"Hosea: A Story of Hope and Forgiveness', 'Tech On', 'None', 'None'",Reparto',
+Kasie Spencer,,"Seeing Tomorrow', 'None', 'None', 'None'",Reparto',
+Tamicka Scruggs,,"Till Death We Do Part', 'Double Betrayal', 'Upstairs', 'Kesler'","Reparto', 'Dirección', 'Producción'",
+Donald Don P. Peterson,,"Hosea: A Story of Hope and Forgiveness', 'Oh Ye of Little Faith', 'None', 'None'","Reparto', 'Banda sonora'",
+Eric Graves,,"Jóvenes ocultos', 'None', 'None', 'None'",Reparto',
+Theresa Burrage,,"Hosea: A Story of Hope and Forgiveness', 'None', 'None', 'None'",Reparto',
+Andrea Heard,,"Hosea: A Story of Hope and Forgiveness', 'Squad', 'Till Death We Do Part', 'BusStop'",Reparto',
+Dachelle Bufford,,"Hosea: A Story of Hope and Forgiveness', 'None', 'None', 'None'",Reparto',
+LaTonia Young,,"Hosea: A Story of Hope and Forgiveness', 'Oh Ye of Little Faith', 'None', 'None'",Reparto',
+Austin Butler,1991,"Elvis', 'Érase una vez en... Hollywood', 'Los muertos no mueren', 'The Carrie Diaries'","Reparto', 'Producción', 'Banda sonora'",27
+Gester Veas,,"Fragments of Time', 'None', 'None', 'None'","Reparto', 'Cámara y electricidad'",27
+Jordan Pryor,,"En honor a la verdad', 'None', 'None', 'None'",Reparto',27
+Paolo Fronticelli,,"La forza non basta', 'Vetro', 'None', 'None'","Reparto', 'Equipos adicionales'",27
+Paola Giancaterino,,"Vetro', 'None', 'None', 'None'",Reparto',27
+Édouard Court,,"Ni le ciel ni la terre', 'Les Chamois', 'La source', 'Le vrai lieu'",Reparto',
+Félix Kysyl,,"Mal genio', 'Miséricorde', 'Monsieur Chocolat', 'Malaterra'",Reparto',
+Ludovic Berthillot,1969,"Distrito 13', 'Wasabi: El trato sucio de la mafia', 'El beso del dragón', '2 días en París'","Reparto', 'Dirección'",
+Mauricette Gourdon,,"Sauveur Giordano', 'La oportunidad de mi vida', 'Tristan', 'Vuelvo a casa'",Reparto',
+Christophe Tek,,"Denis', 'La vieja guardia 2', 'Strangers', 'Sin dejar huellas'",Reparto',
+Desiree Bailey,,"Giselle', 'Torn', 'None', 'None'","Reparto', 'Dirección', 'Guion'",
+Sakina Flint,,"Torn', 'None', 'None', 'None'",Reparto',
+Terry Hodge,,"A Rewritten Story', 'None', 'None', 'None'",None,
+Anthony Johnson,1966,"Friday', 'Infierno en Los Ángeles', 'El club de las strippers', 'Conectados'","Reparto', 'Guion', 'Especialistas'",
+Marcus Zollicoffer,,"Life Changes Everything: Discover Zac Ryan', 'Ellen Degeneres: Can I Have Your Attention Please?', 'Johnny Awful', 'Torn'","Reparto', 'Equipos adicionales'",
+Imran Arooj,,"Ashen Streets', 'Beyound the Glam', 'None', 'None'","Reparto', 'Producción'",
+Firdaus Jamal,,"Khuda Aur Muhabbat', 'Muftbar', 'Alladin', 'Nargis'",Reparto',
+Syed Faris Pervez,,"Polis Evo', 'Ashen Streets', 'Saya E Khuda E Zuljalal', 'Lost'","Reparto', 'Especialistas'",
+Saba Qamar,1984,"Hindi Medium', 'Baaghi', 'Tera Pyar Nahi Bhoole', 'Lahore Se Aagey'",Reparto',4
+Pavitra Jain,,"Disconnected: The Cellphone Addiction Effects', 'None', 'None', 'None'",Reparto',4
+Ojas Ujjwal Narula,,"Disconnected: The Cellphone Addiction Effects', 'None', 'None', 'None'",Reparto',4
+Prahlad Rajput,,"Disconnected: The Cellphone Addiction Effects', 'Malicious Links', 'None', 'None'",Reparto',4
+Hrituraj Shrivastav,,"Malicious Links', 'Disconnected: The Cellphone Addiction Effects', 'None', 'None'",Reparto',4
+Liz Lafontant,,"Bruh', 'The Oval', 'The Plantation', 'Hours.'","Reparto', 'Producción'",4
+Tarik Lewis,,"Outer Banks', 'Between Waves', ""Everyone's Best: Superfriends"", 'Codename'","Reparto', 'Guion', 'Producción'",4
+Kevin Julio,1993,"Adriana', 'Kolak Express 3', 'Jagoan Instan', 'Eggnoid'",Reparto',
+Indah Permatasari,,"Rudy Habibie: Habibie & Ainun 2', 'Acuerdo de boda: La serie', 'Si Manis Jembatan Ancol', 'A: Aku, Benci & Cinta'",Reparto',1
+Mathias Muchus,1957,"Toba Dreams', 'Pengejar Angin', 'Hari Ini Pasti Menang', 'Rindu purnama'","Reparto', 'Dirección', 'Guion'",2
+Nino Fernandez,,"Ang lihim ni Antonio', 'None', 'None', 'None'",Reparto',2
+Debo Andryos,,"Feliz ve jenny', 'My Comic Boyfriend', 'Akad', 'A: Aku, Benci & Cinta'",Reparto',2
+Jennifer Coppen,,"Pretty Little Liars', 'Akad', ""Mekah I'm Coming"", 'Generasi Micin'","Reparto', 'Banda sonora'",
+Harris Soedarto,,"Seperti Hujan yang Jatuh ke Bumi', 'Akad', 'None', 'None'",Reparto',
+Elizabeth Christine,1983,"Hello Ladies', 'Perfect Couples', 'FlashForward', 'Ya no me siento a gusto en este mundo'","Reparto', 'Producción'",1
+Ike Muti,,"Kesetiaan Janji Cinta', 'Akad', 'Persahabatan Bagai Kepompong', 'Bluebell'",Reparto',1
+Arif Alfiansyah,,"Akad', 'Sekawan Limo', 'Kejar Mimpi Gaspol!', 'La horma de su zapato'",Reparto',1
+Marko Almado Jr.,,"The Telephone', 'Golden Boy', 'Circuit Man', 'Shoot: Episode One Still Shooting.'","Reparto', 'Dirección', 'Guion'",
+Adan James Carrillo,,"Amend', 'Todo sobre mi padre', 'El abogado del Lincoln', 'Los segundones'",Reparto',2
+Luke Sell,,"The Mark Steyn Show', 'None', 'None', 'None'",None,2
+Oscar Valdivia,,"Venom', 'Black Panther', 'Proyecto Rampage', 'Godzilla: Rey de los monstruos'",Cámara y electricidad',2
+Cody Bray,,"This Is Letting Go', 'Just Money', 'The Unraveling', 'Under a Dead Ohio Sky'","Producción', 'Reparto', 'Guion'",2
+Jon Berry,,"Three Days or Else', 'Sleeping with Death', 'The Desk', 'None'","Reparto', 'Guion'",2
+Joseph Vitale,191,"Camino de Río', 'El rey del Oeste', 'Un yanqui en la corte del rey Arturo', 'Rostro pálido'","Reparto', 'Composición'",
+Vincent DeSantis,,"Lou', 'San Andrés', 'Hora punta', 'Garra'",Arte',
+Ethan Hawkins,,"Territory', ""Pandora's Box"", 'The Blackened Path', 'Epoch'","Reparto', 'Guion', 'Producción'",
+Kevin Arthurs,,"The Dark Magician', 'Two Tragedies', 'Paradigm 153', 'The Blackened Path'","Reparto', 'Producción', 'Sonido'",
+Clayton Bray,,"Just Money', 'The Unraveling', 'This Is Letting Go', 'The Cost of Freedom'",Reparto',
+Jonah Muser,,"The Unraveling', 'None', 'None', 'None'",Reparto',
+Jared Carnes,,"Just Money', 'Under a Dead Ohio Sky', 'The Unraveling', 'The Natural Selection'",Reparto',
+Carter Creamer,,"Killing Time', 'The Void: A Black Box Universe Story', 'The Cost of Freedom', 'The Natural Selection'","Reparto', 'Guion', 'Producción'",
+Matthew Arnett,,"Post Shift: The Series', 'A Shadow Fell', 'Gossip Boy', 'Contrapposto: A Study'","Reparto', 'Dirección', 'Producción'",
+Megan Davis,,"Hot Take: The Depp/Heard Trial', 'American Horror Story', 'Bones', 'Una chef en casa'","Reparto', 'Producción'",
+Jack Pryor,,"Harry Potter y el misterio del príncipe', 'Big Mouth', 'Cat Snatchers', 'None'",Reparto',
+Joe la Macchia,,"King Me', 'None', 'None', 'None'",Reparto',
+Julian Lipoff,,"King Me', 'Austintatious', 'The Backseat', 'Bring on the Damned!'","Reparto', 'Producción', 'Dirección'",
+Steven Marcario,,"A Misunderstanding of Trust', 'A New Age: Clash of Civilizations', 'Reel Life', 'Face'","Dirección de fotografía y cámara', 'Cámara y electricidad', 'Edición'",
+Randall Holloway,,"Bubbly Brown Sugar', 'Tamron Hall investiga', 'Situationships', 'Tastes Like Medicine'","Reparto', 'Producción', 'Dirección de casting'",
+Lauren Julia,,"Once Upon A Dime', 'Lucifer', 'Sweet Redemption', 'Fishpriest'","Reparto', 'Dirección', 'Guion'",
+Wi-Moto Nyoka,,"Wham', 'Echoes in Silence', 'Nora', 'The Metamorphosis of Ismaila Ba'","Reparto', 'Guion', 'Producción'",2
+Marisa Rambaran,,"Tastes Like Medicine', 'The Other Side', 'None', 'None'",Reparto',2
+Damion Rochester,,"Tastes Like Medicine', ""Don't Go too Far"", 'An Accidental Fire', 'The Dark Strums'","Reparto', 'Equipos adicionales'",1
+Justin Walker White,,"El agente invisible', 'The Bold Type', 'Blue Bloods', 'Broad City'",Reparto',1
+Leo Fitzpatrick,1978,"Kids', 'Bully', 'Bubble Boy (El chico de la burbuja)', 'Serendipity'",Reparto',1
+Justin Rice,,"El espía que me plantó', 'Sin compromiso', 'Nick y Nora, una noche de música y amor', '¡Salvados!'","Equipos adicionales', 'Reparto', 'Composición'",1
+Laura Campbell,1953,"The Rocky Horror Picture Show', 'Shock Treatment', 'Grandes esperanzas', 'Pink Floyd: The Wall (El muro)'","Reparto', 'Banda sonora'",1
+Brian Charles Johnson,,"El lobo de Wall Street', 'Proceso de admisión', 'Gotham', 'La cocina del infierno'",Reparto',1
+Neal Huff,,"Spotlight', 'Moonrise Kingdom', 'Vanishing on 7th Street', 'Múltiple'","Reparto', 'Banda sonora'",5
+Deshja Driggs,,"The Arcadian', 'The Unraveling of Margaret Fisher', 'Stones in the Sun', 'Doomsdays'",Reparto',
+Heidi K. Eklund,,"Cariño, cuánto te odio', 'Si tu me dices lee', 'La segunda oportunidad', 'Last Vermont Christmas'","Casting', 'Dirección de casting', 'Reparto'",
+Jason Downs,1973,"Navy: Investigación criminal', 'Days of Our Lives', 'Hairspray, fiebre de los 6', ""NCIS: Hawai'i""","Reparto', 'Producción', 'Guion'",
+Scarlett Hollinger,,"Doomsdays', 'None', 'None', 'None'",Reparto',
+Susan Louise O'Connor,,"All Rise', 'Her and Him', 'Lexi', 'Ley y orden: Unidad de Víctimas Especiales'","Reparto', 'Guion', 'Producción'",1
+Jordan Danger,1991,"Eureka', 'Kevin from Work', 'Breaking & Exiting', 'Dos colgaos muy fumaos en Navidad'","Reparto', 'Producción', 'Guion'",1
+Jesse Pepe,,"Slipaway', 'Manual para chicas indecentes', 'Sequins', 'Jpee: Inadequate'","Reparto', 'Producción', 'Guion'",1
+Alex Arthur,,"None', 'None', 'None', 'None'",212',1
+Temple Baker,,"Todos queremos algo', 'Hill Country Stories', 'Half Price Hits', 'Rent Free'","Reparto', 'Guion', 'Producción'",1
+Kyle Anderson,,"Emergencia', 'Day of the Dead Dance', 'Halloween Dance', 'None'",Reparto',1
+Spencer Waldner,,"Live', 'Crossword', '5 Years Apart', 'Surprise Party'","Reparto', 'Guion', 'Edición'",
+Richard Heffer,1946,"Airline', 'La fuga de Colditz', ""Don't Wait Up"", 'Survivors'",Reparto',
+Alexander Boyd-Bench,,"A Walk in the Woods', 'None', 'None', 'None'",Reparto',
+Elliot Brown,,"Roblox the Movie 2: The Attack of J.U.L.I.E.N', 'None', 'None', 'None'",Reparto',
+Mark Hampton,,"Lift: Un robo de primera clase', 'Una vez más', 'Control', 'Liaison'","Reparto', 'Dirección', 'Guion'",5
+Clare Richards,,"The Stanley Baxter Show', 'High Living', ""That's My Boy"", 'The Revenue Men'",Reparto',
+Isla Richards,,"A Walk in the Woods', 'None', 'None', 'None'",Reparto',
+Redd Nicholson,,"Heads of State', 'Animal', 'Bad Day at the Office', 'The Way'","Especialistas', 'Reparto', 'Banda sonora'",
+Luna Wolf,,"Slasher House 3', 'Slasher House 2', 'Pandamonium', 'The Thinning Veil'","Dirección', 'Producción', 'Especialistas'",11
+Carly Halse,,"Slasher House 3', 'Stages', 'Lucidity', 'Midsummer Boulevard'",Reparto',11
+Paris Rivers,,"Viuda Negra', 'Tomb Raider', 'The Aeronauts', ""The King's Man: La primera misión""","Reparto', 'Localización', 'Equipos adicionales'",11
+Lewis Cooper,,"Bugs Bunny in Double Trouble', 'None', 'None', 'None'",Arte',11
+Cy Henty,,"Smiley vs Smiley', 'Slasher House 3', 'Video Shop Tales of Terror', 'Axel Falcon'","Reparto', 'Dirección', 'Guion'",11
+Richard Fysh,,"Maya', 'Grindsploitation', '7 Kills, 3 Songs & a Banana', ""What You Can't Promise""","Reparto', 'Dirección', 'Guion'",
+Grant Kempster,1973,"Pugilist', 'Werewolves of London', 'Slasher House 2', 'Limited'","Reparto', 'Arte', 'Producción'",
+Pauline Peart,,"Carry on Girls', 'Los ritos satánicos de Drácula', 'Cuba', 'Chandi Sona'",Reparto',
+Matthew Baunsgard,,"The Loch Ness Horror', ""Freddy's Fridays"", 'FBI: International', 'The Area 51 Incident'",Reparto',
+Valerii Mironov,,"The Real Folks Kino', 'Los Cops', 'Krasnyy Ded Otmshcheniya', 'None'","Dirección', 'Guion', 'Dirección de fotografía y cámara'",
+Artem Redko,,"Krasnyy Ded Otmshcheniya', 'None', 'None', 'None'",Reparto',
+Vladimir Arhipov,,"Los Cops', 'Krasnyy Ded Otmshcheniya', 'None', 'None'","Reparto', 'Guion'",
+Damir Izmajlov,,"Krasnyy Ded Otmshcheniya', 'None', 'None', 'None'",Reparto',
+Vitaliy Mihailov,,"Krasnyy Ded Otmshcheniya', 'None', 'None', 'None'",Reparto',
+Roman Safin,,"Chego khochet Slava?', 'Krasnyy Ded Otmshcheniya', 'None', 'None'",Reparto',
+Anastasia Karpova,,"Krasnyy Ded Otmshcheniya', 'Serebro: Gun', 'None', 'None'",Reparto',
+Joshua Stamp,,"""A Hand Puppet's Job"", 'The Shakespeare Guy', 'None', 'None'","Reparto', 'Dirección', 'Guion'",
+Mustika,,"None', 'None', 'None', 'None'",222',
+Andika Pratama,,"Ketika Berhenti di Sini', 'Candy Caddy', 'The Architecture of Love', 'Sehidup Semati'",Arte',
+Dovi Putra,,"Scapegoat', 'None', 'None', 'None'",Reparto',
+Ella Howard,,"Ha llegado un inspector', 'Distant Shores', 'Britannia High', 'Cinco días'","Producción', 'Dirección de la segunda unidad o asistencia a dirección', 'Equipos adicionales'",1
+Adam Maksoud,,"Exonerated', 'Diane', 'I am Poison', 'Detained'","Cámara y electricidad', 'Producción', 'Reparto'",
+Dwight Taylor,,"Sombrero de copa', 'Manos peligrosas', 'Un hombre inverosímil', 'Noche de pesadilla'","Guion', 'Producción', 'Equipos adicionales'",
+David Wright,,"The Gimmicks', 'Star Trek: Lower Decks', 'Envíos Sideralex', 'Legendary Dudas'","Equipos adicionales', 'Guion', 'Producción'",
+Ryan Dailey,,"Intertwined Chaos', 'My Dear Family', 'S.O.S.: Mulheres ao Mar 2', 'None'","Cámara y electricidad', 'Reparto', 'Sonido'",
+Alex Hodgins,,"Jackrabbit', 'The Examination of a Species', 'Today in New York', 'Sublets'",Reparto',
+Rebecca Rose Perkins,,"City of Ember: En busca de la luz', 'Jackrabbit', 'Monster House', 'Looney Tunes: De nuevo en acción'","Producción', 'Guion', 'Equipos adicionales'",
+Joe Howes,,"Alita: Ángel de combate', 'Mortal Engines', 'Vengadores: Endgame', 'Géminis'","Efectos visuales', 'Reparto', 'Equipos adicionales'",
+David Munch-Lunch,,"Jackrabbit', 'None', 'None', 'None'",Reparto',
+Reed Birney,1954,"Mass', 'El menú', 'House of Cards', 'Georgia'","Reparto', 'Producción'",4
+Kirk Hunter,,"Barn of the Blood Llama', 'Terrorist Parking', 'Big Shadow', 'Absurd Solemnity'","Reparto', 'Edición', 'Producción'",
+Kathleen Carrier'e Pefferkorn,1965,"Gotcha', 'Infidelity', 'Bellatrix', 'Horror Host the Motion Picture'","Reparto', 'Maquillaje', 'Dirección'",
+Charles Reynolds,,"Examen final', 'Carnival Magic', 'None', 'None'","Dirección de la segunda unidad o asistencia a dirección', 'Reparto'",
+Eric Chisholm,1914,"La trampa', 'La terrible historia del Dr. Jekyll y Mr. Hyde', 'Programme X', 'Mata y mata otra vez'",Reparto',
+Charles C. Brooks,,"Fighting for Honor', 'Jessica Lives', 'None', 'None'","Producción', 'Guion', 'Reparto'",
+Arden Debelle,,"Devil Board', 'None', 'None', 'None'",Reparto',
+Abbas Ali Ezzati,,"Charshanbehbazar', 'Bagherzadeh Ghomi', ""Stockholm's Sculptures 1: Norrmalm & Kungsholmen"", ""Stockholm's Sculptures 2: Östermalm""","Dirección', 'Guion', 'Edición'",
+Erika Corcoran,,"A Sort of Wonderland', 'Him', 'None', 'None'","Reparto', 'Dirección', 'Guion'",
+Dedrick Kendis,,"Him', 'None', 'None', 'None'",Reparto',
+Allison Boyle,,"The Sword', '6:15', 'The Second', 'Kantemir'","Maquillaje', 'Reparto', 'Efectos especiales'",
+Tristan Parks,,"Scenes from Acting for Film & T.V. Fall 215', 'Feral', 'My Dog Against the World', 'None'","Reparto', 'Guion'",
+Brad Morgan,,"Case by Case', 'Clearwater Vol. 2', 'Clearwater', 'Wastelanders'",Reparto',
+Ben Nebenfuehr,,"Memories', 'Sacrifice', 'None', 'None'","Reparto', 'Guion', 'Sonido'",
+Antonio Brkovic,,"The Absurdist', 'On the Plus Side', 'Homicide Hunter: Lt. Joe Kenda', 'Binary Star'","Equipos adicionales', 'Reparto', 'Cámara y electricidad'",
+Elizabeth Gibson,,"Twisters', 'A Christmas... Present', 'None', 'None'","Reparto', 'Dirección de producción'",
+Melissa Costa,,"The List: Rienda suelta', 'Todos esos pequeños momentos', 'El blues de Beale Street', 'The Fighter'","Dirección', 'Producción', 'Guion'",1
+Christian Glas,,"Bananas', 'None', 'None', 'None'",Reparto',1
+Kat Kuei Chen,,"Silicon Valley', 'Class of Lies', 'Togetherness', 'None'",Reparto',1
+Bryce Harrow,,"El Banditos', 'The Heavy', 'Bagel of Life', 'The Walking Bread'","Reparto', 'Producción', 'Dirección'",1
+Rob Harrow,,"El Banditos', 'The Heavy', 'The Walking Bread', 'Afternooner'","Reparto', 'Producción', 'Dirección'",1
+Edward Hernandez,,"Ojos de fuego', 'She Came Back', 'In the Dark', 'Slasher'",Cámara y electricidad',1
+Husein Madhavji,,"Saving Hope', ""Schitt's Creek"", 'Donkeyhead', 'Arma letal'","Reparto', 'Producción', 'Guion'",
+Korey McIsaac,,"Que te den, Kevin', 'Julia', 'La red social', 'The Town: Ciudad de ladrones'","Reparto', 'Guion', 'Dirección'",
+Cleopatra Wood,,"""Afua's Diary"", 'Christmas with the Prince', 'The Strangers', 'Just Say Yes'","Reparto', 'Producción'",
+Fabio Abraham,,"""Afua's Diary"", 'Luck', 'Operation Cobra', 'Party Animals'",Reparto',
+Kwaku Sintim Misa,,"Checkmate', ""Afua's Diary"", 'Ley y orden', 'Adams Apples'",Reparto',
+Franciska Steiner,,"""Afua's Diary"", 'Betrayal Drama', 'My Name Is Georgina', 'Walking with Shadows'",Reparto',
+Zion Johnson,,"BB Brown & Friends', 'None', 'None', 'None'",Reparto',
+Sandy Ani-Adjei,,"Testimony', ""Afua's Diary"", 'Cover Me', 'None'","Reparto', 'Dirección', 'Guion'",
+Nataylia,,"""Afua's Diary"", 'Meet the Adebanjos', '5th Screen Nation Film and Television Awards 27', 'Breach Drama'","Reparto', 'Composición', 'Guion'",
+Louis Hyde,,"""Afua's Diary"", 'Policía de barrio', 'None', 'None'",Reparto',
+Richard Goble,,"Sensation', ""Afua's Diary"", ""I'm Still Here"", 'Gangsters Gamblers Geezers'",Reparto',
+Juliet Amoah,,"""Afua's Diary"", 'None', 'None', 'None'",Reparto',
+Amber Cella,,"A New Feminist Discourse', ""Mime's the Word"", 'Camping with Helga', 'Do Something with Your Life'","Reparto', 'Producción', 'Guion'",
+Sean Gilchrist,,"Genre Machine', 'Victor', 'Transitions', 'Sidelined'","Dirección', 'Edición', 'Dirección de fotografía y cámara'",
+Iva Kapsikova,,"In the Garden', 'Stockholders', 'Pinky', ""All the Crap I've Ever Written""","Reparto', 'Guion', 'Producción'",
+Mike Klemak,1981,"An Undeniable Fact', 'Standard Action', 'ART An Unexpected Vocation', 'Arrow'","Reparto', 'Arte', 'Guion'",
+Megan Phillips,,"Breakup Time Machine', 'Beeba Boys', 'Bonanza', 'The Actor Diaries'","Reparto', 'Guion', 'Producción'",
+Izabelle Leite,199,"Sixteen', 'Narendra', 'World Famous Lover', 'Mr. Majnu'",Reparto',
+Nilesh,1971,"Sanju', 'Vaastav: The Reality', 'Pitaah', 'Hathyar: Face to Face with Reality'",Reparto',
+Mox Rathore,,"Gunjan Saxena: La chica de Kargil', 'Asal Main the True Love Story', 'Mhane Pyaro Laage Maro Marwari Desh', 'Game'","Reparto', 'Guion', 'Edición'",
+Danny Donnelly,,"Not for Nothing', 'Desde otro lugar', 'The Arrangement', 'Last Known Location'","Reparto', 'Dirección', 'Producción'",16
+Frank Halbiger,,"""Baking Cookies for a Witch's Funeral"", 'The Reckoning', 'Boss Man', 'Rascal'","Reparto', 'Dirección', 'Guion'",
+Andrew Hunsicker,,"House of Cards', 'The Arrangement', 'Habemus Papam: Una historia de poder', 'Law of Perdition'","Reparto', 'Producción', 'Guion'",3
+Michael Everett Johnson,,"Ley y orden', 'Billions', 'Princess of the Trap House', 'Love Inside the Drug Game'","Reparto', 'Dirección de fotografía y cámara', 'Dirección'",3
+Michael Abaï,,"Au nom de la vérité', 'Lola...', 'Le jour où tout a basculé', 'Les Colocs'",Reparto',
+Geraldine Blachon,,"Lola...', 'None', 'None', 'None'",Reparto',
+Claire Garance,,"Lola...', 'Entre deux chairs', 'None', 'None'",Reparto',
+Raphael Roger Levy,,"The Serpent Queen', 'FBI: International', 'La serpiente', 'Versailles'",Reparto',
+Elodie Petrone,,"Lola...', 'None', 'None', 'None'",Reparto',
+Luis A. Lozada Jr.,,"Vico C: La Vida Del Filósofo', ""God's Eye"", 'Los Domirriqueños 2', 'None'",Reparto',
+Mariangelie Vélez,,"Los Reyes de la Salsa', 'Mi abuelo se quiere casar', 'Rosaura', 'Vico C: La Vida Del Filósofo'",Reparto',
+César Farrait,,"Animal', 'Back to the Beginning', 'Double Tap', 'The Final Chapter'","Reparto', 'Guion', 'Producción'",
+Nore-Liz Latorre,,"Vico C: La Vida Del Filósofo', 'None', 'None', 'None'",Reparto',
+Xavier Antonio Morales,,"Che, el argentino', 'Extorsión', 'Por amor en el caserio', 'Bryan Lopez: Perder & ADMV'","Reparto', 'Dirección'",
+Luisa Benítez,,"Vico C: La Vida Del Filósofo', 'None', 'None', 'None'",Reparto',
+Bryan Reyes Gago,,"Vico C: La Vida Del Filósofo', 'Oportunidad', 'LFM TV', 'None'",Reparto',
+Osvaldo Otero,,"La Leyenda', 'Vico C: La Vida Del Filósofo', 'None', 'None'","Reparto', 'Equipos adicionales'",
+Luis Clemente-Rivera,,"Vico C: La Vida Del Filósofo', 'None', 'None', 'None'",Reparto',
+Omar Cruz Soto,,"De-mentes criminales', 'Runner Runner', 'Necesitaban', 'Secuestrada'","Reparto', 'Equipos adicionales', 'Producción'",
+Valeria Bilello,1982,"Una villa en la Toscana', 'Sense8', 'Lejos de ti', 'Fanum e il Demone Etrusco'",Reparto',1
+Lavinia Longhi,198,"Mario', 'La leggenda di Bob Wind', 'I giorni della vendemmia', 'Don Matteo'",Reparto',
+Giorgio Pasotti,1973,"Abbi Fede', 'Después de medianoche', 'Io, Arlecchino', ""L'aria salata""","Reparto', 'Dirección', 'Guion'",12
+Lunetta Savino,1957,"Tengo algo que deciros', 'Il candidato', 'La fuga', 'Liberate i pesci!'",Reparto',5
+Roberto Herlitzka,1937,"Buenos días, noche', 'La gran belleza', ""L'ultima lezione"", 'Il rosso e il blu'","Reparto', 'Equipos adicionales'",6
+Franco Moscon,,"Habemus Papam', 'Tren de noche a Lisboa', 'La dama velada', 'Con la cabeza llena de miel'","Reparto', 'Equipos adicionales'",
+Maurizio Tabani,,"Mr. & Mrs. Smith', ""L'ultima mazurka"", 'Piazza Fontana: La conspiración italiana', 'Ödipussi'",Reparto',
+Fabio Calvi,,"Grande Fratello', 'I menù di Benedetta', 'Balalaika - Dalla Russia col pallone', 'Stasera Casa Mika'","Dirección', 'Reparto', 'Edición'",
+Giulia Manzini,,"Made in Italy', 'Io, Arlecchino', 'Gli sdraiati', 'We Are Who We Are'",Reparto',
+Gianni Ferreri,196,"Distretto di polizia', 'Il Mio Regno per una Farfalla', 'Piper - La serie', 'El ciclón'",Reparto',
+Ajab Gul,,"Kyun Tumse Itna Pyar Hai', 'Jaal', 'Khoey Ho Tum Kahan', 'Sabar Sha Zargiya'","Reparto', 'Dirección', 'Guion'",
+Afreen Khan,,"Asli Sukh', 'Girls in Big City 221', 'Lust', 'None'",Reparto',
+Arbaaz Khan,1967,"Dabangg', 'Dabangg 2', 'Shootout at Lokhandwala', 'Tanaav'","Reparto', 'Producción', 'Dirección'",1
+Asif Khan,,"Nede Vidudala', '919 Lakeview Drive', 'The dark', 'None'","Reparto', 'Producción'",1
+Jahangir Khan,,"Paan Singh Tomar', 'Dilwale', 'Gangubai Kathiawadi', 'Bholaa'","Reparto', 'Equipos adicionales'",
+Warda Khan,,"I Miss You', 'Azad', 'Zandan', 'None'",Reparto',
+David Letterman,1947,"Late Show with David Letterman', 'Late Night with David Letterman', 'Beavis y Butt-Head recorren América', 'Partes privadas'","Guion', 'Producción', 'Reparto'",21
+Martin Short,195,"El chip prodigioso', 'Santa Claus 3: Por una Navidad sin frío', 'Puro vicio', 'Tres amigos'","Reparto', 'Guion', 'Producción'",16
+Chita Rivera,1933,"Chicago', 'Sgt. Pepper', 'tick, tick... Boom!', 'Noches en la ciudad'","Reparto', 'Banda sonora'",1
+Susan Stroman,1954,"Los productores', 'El ritmo del éxito', 'Tienes un e-mail', 'The Right Girl'","Equipos adicionales', 'Dirección', 'Guion'",1
+Florence Henderson,1934,"La tribu de los Brady', 'The Brady Bunch Variety Hour', 'La tribu de los Brady', 'Shakes'","Reparto', 'Producción', 'Guion'",3
+Sheldon Harnick,1924,"El violinista en el tejado', 'Election', 'Beautiful boy, siempre serás mi hijo', 'Las últimas vacaciones'","Música', 'Guion', 'Composición'",1
+Steve Young,1961,"The Singles Ward', 'Lois y Clark: Las nuevas aventuras de Superman', 'Playa azul', 'Dos en el aire'",Reparto',
+Jello Biafra,1958,"El mensajero del miedo', 'Grindhouse: Planet Terror', 'Asesinos natos', 'Grindhouse'","Reparto', 'Composición', 'Producción'",
+Don Bolles,1956,"El regreso de los muertos vivientes', 'Dreamaniac', 'Free LSD', 'Night Pulse'","Reparto', 'Equipos adicionales', 'Música'",
+Melody Rogers,,"Diamond Zero', 'Salvados por la campana', 'Salvados por la campana: Boda en Las Vegas', 'JAG: Alerta roja'","Reparto', 'Banda sonora'",
+Virginia Leigh,,"Waiting for Summer', 'Leatha Acidents', 'Killer God', 'Everything Changes'","Reparto', 'Composición'",
+Simeon Taole,1977,"Everything Changes', 'Diaphony', 'Sola ante el peligro', 'None'","Reparto', 'Edición', 'Dirección'",1
+Maia Costea,,"Behind the Rocks', 'Pirates', 'Home', 'The Candy Girl'","Reparto', 'Guion', 'Edición'",7
+Althea Kaye,,"¡Qué duro es el amor!', 'Motherland: Fort Salem', 'Kung Fu', 'Henry and Gloria'",Reparto',7
+Austin J.M. Ross,1993,"Cold Feet', 'Henry and Gloria', 'Buckerham Hill', 'None'",Reparto',
+Charlie James,,"Billy & Molly: An Otter Love Story', 'One Life', 'Natural World', ""A Bear's-Eye View of Yellowstone""","Dirección de fotografía y cámara', 'Cámara y electricidad', 'Producción'",2
+Yolanda Clayton,,"Silent Code', 'Sins of My Sistahs', 'Enigma (Secrets Among Friends)', 'Sistahs the Forties Club'","Reparto', 'Guion', 'Producción'",
+Monica Crumpler,,"A Very Merry New Year', 'Bad Fellaz', 'Justice Through Redemption', 'He Say, She Say'","Reparto', 'Producción'",
+Ricky Bell,,"Plan de chicas', 'Tropic Thunder: ¡Una guerra muy perra!', '4 días y 4 noches', 'The New Edition Story'","Reparto', 'Producción', 'Composición'",2
+William Clayton Lll,,"Silent Code', 'None', 'None', 'None'",Reparto',2
+Saia Grayson,,"El paraíso perdido', 'Sins of My Sistahs', 'Sistahs the Forties Club', 'Silent Code'",Reparto',
+Lavon Mckethan,,"Buena conducta', ""Devil's Preacher"", 'Silent Code', 'Real Love 224'","Reparto', 'Dirección de fotografía y cámara'",
+Jamaar Dewitt,,"Sins of My Sistahs', 'Silent Code', 'None', 'None'","Reparto', 'Composición'",
+Renee Grayson,,"XEEP', 'None', 'None', 'None'",Dirección de casting',
+Timothy Mincey,,"Sins of My Sistahs', 'Silent Code', 'None', 'None'",Reparto',
+Adrián Portillo,,"Casa de sudor y lágrimas', 'Beach House', 'Hada', 'Àpat'",Reparto',
+Sharonne,,"Pulled from Darkness', 'Hijos del Sur', 'Discarded Things', 'The Resident'","Reparto', 'Dirección', 'Producción'",13
+Kambuzia Partovi,1956,"Café Transit', 'Kamion', 'Naneh Lala va bacheharesh', 'Mahi'","Guion', 'Dirección', 'Equipos adicionales'",11
+Maryam Moghadam,197,"El perdón', 'Keyke mahboobe man', 'Ehtemal-e Baran-e Asidi', 'Bouran'","Reparto', 'Dirección', 'Guion'",3
+Jafar Panahi,196,"Taxi Teherán', 'Tres caras', 'Fuera de juego', 'El círculo'","Dirección', 'Edición', 'Guion'",53
+Hadi Saeedi,,"Soog', 'Pardeh', 'Fuera de juego', 'Persian Carpet'","Reparto', 'Producción', 'Dirección de producción'",53
+Azadeh Torabi,,"Pardeh', 'None', 'None', 'None'",Reparto',53
+Abolghasem Sobhani,,"Pardeh', 'None', 'None', 'None'",Reparto',53
+Mahyar Jafaripour,,"Pardeh', 'None', 'None', 'None'",Reparto',53
+Ramin Akhariani,,"Pardeh', 'None', 'None', 'None'",Reparto',53
+Sina Mashyekhi,,"Pardeh', 'None', 'None', 'None'",Reparto',53
+Siamak Abedinpour,,"Pardeh', 'None', 'None', 'None'",Reparto',53
+Aleksey Agranovich,197,"Yumorist', 'Código oculto (Branded)', 'Pingviny moyey mamy', 'Gostya'","Reparto', 'Producción'",3
+Yuri Kolokolnikov,198,"Hunter Killer: Caza en las profundidades', 'Tenet', 'El otro guardaespaldas', '6 en la sombra'","Reparto', 'Producción'",1
+Alisa Khazanova,1974,"La mujer de negro', 'Middleground', 'Skazka pro temnotu', 'Belyy spisok'","Reparto', 'Dirección', 'Guion'",1
+Pavel Ilin,1963,"Londongrad', 'Nezhnyy vozrast', 'Yumorist', 'Shekspiru i ne snilos'",Reparto',
+Artyom Volobuyev,,"El reto', 'Zloy gorod', 'El último guerrero', 'Optimisty: Karibskiy sezon'",Reparto',
+Polina Aug,1995,"Sin amor', 'Compartimento nº 6', 'Orlean', 'Dzhetlag'",Reparto',
+Simon Steinberg,,"None', 'None', 'None', 'None'",None,
+Vilma Kutaviciute,,"Vosmerka', 'Trotskiy', 'Alibi', 'Lavstori'",Reparto',
+Kristians Karelins,,"Yumorist', 'Reetur', 'Senotaji', 'Apsestiba'",Reparto',
+Olga Dibtseva,1986,"YA BOGINYA', 'Ozabochennye', 'Dobriy den', 'Chasovshchik'","Reparto', 'Dirección', 'Guion'",
+Pinar Corbacioglu,,"Beni Böyle Sev', 'Beyaz Yalan', 'Kertenkele', 'Elde Var Hayat'","Dirección', 'Dirección de la segunda unidad o asistencia a dirección', 'Reparto'",
+James Gaines,1955,"Sed de venganza', 'Black Fire', 'Mahirap patayin, masamang buhayin', 'Robowar - Robot da guerra'","Reparto', 'Guion', 'Equipos adicionales'",
+Svetla Georgieva,,"Amigo Ernesto', 'Strastna nedelya', 'None', 'None'",Arte',
+Aerial Segard,,"The Wonderland', 'A Clear Midnight', '5th Passenger', 'Poster Boy'","Reparto', 'Especialistas', 'Equipos adicionales'",
+Joanne Thomson,,"Outlander', 'La víctima', 'Detective Muncie', 'Mank'","Reparto', 'Guion', 'Producción'",1
+Rob Turner,,"On Your Feet', ""Crow's Nest"", 'Digger', 'Corvus'","Dirección', 'Producción', 'Equipos adicionales'",
+Marc Lubbers,,"Young Rock', 'JG Wentworth: Grocery Stop', 'The Food That Built America', 'Panic 9-1-1'",Reparto',1
+R.J. Koker,,"Lucky Louie', 'Trust NO One', 'Mr. Blue Shirt: The Inspiration', 'Lincoln: Divided We Stand'","Reparto', 'Producción', 'Equipos adicionales'",
+Scott Tomlinson,,"Bad Ben 12: Alien Agenda', 'Bad Ben 11: Undead', 'Bad Ben 13: The Dracula Situation', 'Bad Ben 1: Eulogy'",Reparto',
+Mark Worth,,"Doors', 'None', 'None', 'None'",Reparto',
+Bobby Newton 2nd,,"The Freedom to Fall Apart', ""You Weren't There"", 'A Familiar Face', ""A Woman's Body""","Reparto', 'Especialistas'",
+Sherrill Ducharme,,"The Christmas Letter', 'Doors', 'Winston', 'Holly and the Hot Chocolate'",Reparto',
+Park Chan-yeol,1992,"Goblin', 'Woo-Ri Yup-Jip-Ae Exo-Ga San-Da', 'Recuerdos de la Alhambra', 'Nangmandakteo Kimsaboo'","Reparto', 'Composición', 'Guion'",2
+Shanshan Yuan,1987,"Jian bing xia', 'Jiang shan ru ci duo jiao', 'Suoye...he hei fen jiehunle', 'Xiao ao jianghu'","Reparto', 'Banda sonora'",3
+Seohyun,1991,"Moon Lovers: Scarlet Heart Ryeo', 'Wangeul Chajaseo', 'Amarrados al amor', 'Make Your Move'","Reparto', 'Guion', 'Música'",1
+Chao Jiang,1975,"Nan hai gui xu', 'Shi liu hong le', 'Qi yue de wu bu', 'Long ling mi ku'",Reparto',2
+Qian Wu,1992,"Bing Tang Dun Xue Li', 'Ze tian ji', 'Wo de qi miao nan you', 'He Yi Sheng Xiao Mo'",Reparto',4
+Sarah Carey,,"Tangerine', 'Catfish: Mentiras en la Red', 'The Great Food Truck Race', 'Prospect'","Producción', 'Guion', 'Reparto'",4
+Sean Houle,,"Sweet Harry', 'None', 'None', 'None'",Reparto',4
+Justin Walters,,"La maldición del hombre lobo', 'The Idiot', 'None', 'None'",Reparto',
+Rob Wight,,"Cannibal Comedian', 'Area 515', 'Swamp Murders', 'River Money'","Reparto', 'Equipos adicionales'",
+Joey Bicicchi,,"No Way Out', 'Tin Soldier', 'Encerrado con el diablo', 'Vincent N Roxxy'","Reparto', 'Producción', 'Edición'",3
+Gianna Capparelli,,"Reflection', 'None', 'None', 'None'",Reparto',3
+Benjamin Danielowski,,"God in Ruins', 'Reflection', 'Mi sueño es bailar', 'None'",Reparto',
+Matt Gorkis,,"If She Screams', 'An Ideal Candidate', 'We Hate', 'Lori Marpe & Her Idiosyncratic Candy'","Reparto', 'Producción'",
+Larry Hau,,"Rides with Jay Thomas', 'None', 'None', 'None'",None,
+LaRoyce Hawkins,1988,"Chicago P.D.', 'El expreso de Elmira', 'Chicago Fire', 'Chicago Justice'","Reparto', 'Producción'",
+Kevin Michael Martin,,"Ritual', 'The Last Ship', 'God in Ruins', 'Wild Card'","Reparto', 'Guion', 'Producción'",1
+Michael O'Hare,1952,"Babylon 5', 'C.H.U.D. (Caníbales Humanoides Ululantes Demoníacos)', 'La ambulancia', 'Promesa de amor'",Reparto',
+Joseph Pedersen,1963,"Platoon', 'Le llaman Bodhi', 'Twin Peaks: Fuego camina conmigo', 'Suburbia'",Reparto',
+Stephen Santay,,"God in Ruins', 'Ultimate Spider-Man', 'Ritual', 'El rey de la colina'","Equipos adicionales', 'Reparto', 'Producción'",
+Shaun Davies,,"Headmaster', 'Sara', 'None', 'None'",Reparto',
+Adam Brix,1978,"Ditte & Louise', 'Luces parpadeantes', 'The Shift', 'Landet af glas'","Reparto', 'Especialistas', 'Equipos adicionales'",
+Julie Christiansen,1987,"Mens vi lever', 'Et lift', 'Lykke', 'Alla Salute!'",Reparto',2
+Mette Riber Christoffersen,,"Råzone', 'Preludium', 'Sjit Happens', 'Knus'",Reparto',
+Joju George,1978,"Joseph', 'Chola', 'Udhaharanam Sujatha', 'Madhuram'","Reparto', 'Producción', 'Música'",7
+Athmeeya Rajan,1989,"Shekar', 'Cold Case', 'Adrishyam', 'Rose Guitarinaal'",Reparto',7
+Dileesh Pothan,1981,"Joji', 'Thondimuthalum Dhriksakshiyum', 'Maheshinte Prathikaaram', 'Kumbalangi Nights'","Reparto', 'Dirección de la segunda unidad o asistencia a dirección', 'Producción'",9
+James Eliya,,"Kalki', 'Oru Kuprasidha Payyan', 'Kooman', 'Kali'",Reparto',9
+Irshad,,"Drishyam', 'Wolf', 'Malik', 'Big Brother'","Reparto', 'Producción'",
+Sudhi Koppa,,"Malik', 'Unda', 'King of Kotha', 'Lakshyam'",Reparto',
+Madhuri Braganza,199,"Al Mallu', 'Joseph', 'Pathonpatham Noottandu', 'Ente Mezhuthiri Athazhangal'","Reparto', 'Música'",
+Malavika Menon,1998,"Hero', 'Kaduva', 'Edakkad Battalion 6', 'Thankamani'",Reparto',
+Johny Antony,,"Masters', 'C.I.D. Moosa', 'Kochi Rajavu', 'Thappana'","Reparto', 'Dirección', 'Dirección de la segunda unidad o asistencia a dirección'",
+Idavela Babu,,"Lion', 'Monster', 'News', 'The King'",Reparto',
+Hasan Tanay,,"Devrimden Sonra', 'Entropy', 'None', 'None'",Reparto',
+Johanna Gonzales,,"Conejos', 'Alicia', 'None', 'None'",Reparto',
+Claudia Rojas,,"Total Recall: Desafío total', 'Vengadores: Endgame', 'Ejército de los muertos', 'Black Panther'",Transporte',2
+Rafael Camacho,,"Depositarios', 'Morenita, el escándalo', 'Pet Shop Days', 'Retrieving Paradise'","Arte', 'Dirección de arte', 'Equipos adicionales'",2
+Jean-Luc Bubert,1979,"Wintermärchen', 'LenaLove', 'Glück', 'Der Schrei'",Reparto',1
+Maja Lehrer,,"Endzeit', 'Wald', 'In aller Freundschaft', 'Unter uns'",Reparto',1
+Franziska Rieck,,"Der Imagonaut', 'Sibylle', 'Luft', 'The Source of Shadows'",Reparto',1
+Joseph Brosnan,,"The Bear Man', 'None', 'None', 'None'",Reparto',1
+James Morley,,"Black Days', 'La aventura del Intrépido', 'Death of Me', 'Pánico en alta mar'","Producción', 'Guion', 'Dirección'",1
+Albert Green,,"El cuerpo en llamas', 'Un mal día lo tiene cualquiera', 'Te esperaré en Venus', 'No matarás'","Reparto', 'Producción', 'Dirección'",1
+Dmitry Pan,,"SAGA - Curse of the Shadow', 'The Bee', 'Change of Heart', 'A Whiteboard Love Story'","Reparto', 'Equipos adicionales'",1
+Ken Pounga,,"The Hunted: Storm', 'None', 'None', 'None'",Reparto',1
+Michael Simsek,,"Bless Her Heart', ""Lover's Game"", 'Identity Zero', 'The Eye of Horus'","Efectos visuales', 'Reparto', 'Producción'",3
+Nikko Harris,,"The Last Stand', 'Love vs Logic', 'Nancy Drew', 'Dorsin & Brown'","Reparto', 'Guion'",3
+Tiffanie Sun,,"Digital Dream', 'The Last Stand', 'None', 'None'",Reparto',3
+Ellis Potter,,"Diligit', 'None', 'None', 'None'",Guion',3
+Sara Rabey,,"""DC's Legends of Tomorrow"", ""Hell's Tomb"", 'Amelia', 'Inedia'","Reparto', 'Equipos adicionales'",3
+Jeffrey C.R. Wallace,,"12 balas', 'Kid Cannabis', 'Sobrenatural', 'Eat It Raw'","Reparto', 'Guion', 'Dirección de fotografía y cámara'",
+Abigail Culwell,,"Fugue', 'Banged Up', 'Mercy', 'Alpha Must Die'","Reparto', 'Dirección'",
+John Charles Meyer,,"Dave Made a Maze', 'The Millennium Bug', 'Mom', 'Savaged'","Reparto', 'Producción', 'Dirección de la segunda unidad o asistencia a dirección'",6
+Norma Maldonado,1962,"The Good Doctor', 'Jane the Virgin', 'Familia de acogida', 'Breaking Bad'",Reparto',6
+Jenn Fee Catalino,,"Girls! Girls! Girls!', 'Amigos con dinero', 'Big Game', 'The Untitled Luke Emerald Project'","Reparto', 'Producción', 'Guion'",1
+Kelly Lett,,"Daku kyatto', 'None', 'None', 'None'",Reparto',1
+Toni Domanico,,"Part Time Fabulous', 'Witchy Ways', 'Nip/Tuck, a golpe de bisturí', 'Everyday Lies'",Reparto',
+Amy Lucas,,"Escape from Tomorrow', 'Stalled', 'All the Best, Billy Sears', 'Undressed'",Reparto',
+A. Christopher Purdy,,"Final: The Rapture', 'The Epic Journey', 'Libertad', 'Affliction'","Producción', 'Reparto'",
+Christine Tanabe,,"Stuffed', 'Girls! Girls! Girls!', 'Altered Spirits', 'Snuff'","Guion y continuidad', 'Reparto', 'Cámara y electricidad'",
+Chris Hopkins,,"Crímenes imperfectos', 'None', 'None', 'None'",None,
+Haven Nutt,,"Mr. Man', 'Street Dykes', 'Maskerade', 'Gun'","Reparto', 'Producción', 'Dirección'",
+Ben Fiore,1959,"Appointment with Death', 'The Mamaluke', 'Pursuit', 'Penelope'","Guion', 'Reparto', 'Producción'",
+Keith McMahon,,"Creencias mortales', 'None', 'None', 'None'",Reparto',
+Sheila Dara Aisha,,"Yang Hilang Dalam Cinta', 'Noktah Merah Perkawinan', 'Nanti kita cerita tentang hari ini', 'Eggnoid'","Reparto', 'Banda sonora'",1
+Dion Wiyoko,,"Cek Toko Sebelah', 'Terbang: Menembus Langit', 'Susi Susanti: Love All', 'Hattrick'",Reparto',
+Morgan Oey,,"The Night Comes for Us', 'Koki-Koki Cilik', 'Assalamualaikum Beijing', 'Sweet 2'","Reparto', 'Banda sonora'",3
+Ferry Salim,1967,"Bangkit!', 'Ca-bau-kan', '245 Apa Ada Cinta', 'Teka Teki Tika'",Reparto',
+Jenny Chang,,"Perdidos', 'Agent Orange', 'The Orb', 'In the Moment'","Reparto', 'Producción'",
+Eriska Rein,,"Bajaj Bajuri the Movie', 'Aku Cinta Kamu', 'A Man Called Ahok', 'Teka Teki Tika'",Reparto',
+Tansri Kemala,,"Teka Teki Tika', 'None', 'None', 'None'",Reparto',
+Ayu Laksmi,,"""Los hijos de Satán (Satan's slaves)"", 'Bumi Manusia', 'Di Bawah Pohon', 'Sekala Niskala'","Reparto', 'Composición'",
+Whani Darmawan,,"Kucumbu tubuh indahku', '24 horas con Gaspar', 'The Love Verses', 'Qodrat'","Reparto', 'Equipos adicionales'",1
+Kiki Narendra,,"Pengabdi Setan 2: Communion', 'La mujer del infierno', 'Preman', 'Pertaruhan: The Series'",Reparto',1
+Enrico Basile,,"Maria Montessori', 'I Came from the Future', 'Rêve General', 'Un passo alla volta'",Reparto',1
+Carmine Claudio Covino,,"Un passo alla volta', 'Un colpo al cerchio e uno alla botte', 'None', 'None'",Reparto',1
+Festus Osayi Ebomwonyi,,"Un passo alla volta', 'None', 'None', 'None'",Reparto',1
+Michele Farina,,"None', 'None', 'None', 'None'",None,1
+Micòl Gaia Ferrigno,,"Un passo alla volta', 'Un colpo al cerchio e uno alla botte', 'Doppio sei', 'None'","Reparto', 'Dirección de casting'",
+Nicola Russo,,"""Nemici d'infanzia"", 'I pavoni', 'Marciando nel buio', 'Tobia al caffè'",Reparto',
+Bayejid Sarker,,"Un passo alla volta', 'None', 'None', 'None'",Reparto',
+Seydou Sidibe,,"Un passo alla volta', 'None', 'None', 'None'",Reparto',
+Arianna Sorrentino,,"Imma Tataranni', 'Un passo alla volta', 'None', 'None'",Reparto',
+Giorgio Sorrentino,,"Gomorrah', 'Sumerika', 'The Voice Is Over', 'Soma'","Reparto', 'Sonido'",
+Diana Chiritescu,,"Ant-Man', 'El viaje más largo', 'Los originales', 'Fox the Gambler'","Reparto', 'Producción'",
+Nate Clute,,"Semper', 'Guys Reading Poems', 'The Choice', 'The Circuit Intendant of Aldwych'","Reparto', 'Sonido', 'Edición'",
+Julian Curi,,"Gruff', 'A Case for Love', 'None', 'None'","Dirección', 'Producción', 'Guion'",1
+Mindee de Lacey,,"Dave', 'The Onania Club', 'The Allnighter', 'Feud'","Reparto', 'Producción'",1
+Kenneth Duchamp,,"Pawn', 'K for Karma', 'White Baklava', 'Common Sense Police'","Producción', 'Dirección', 'Reparto'",1
+Morgan McNair,,"Stepdaughter Slaughter', 'Chauffeur', 'Pictures of Us', 'None'",Reparto',1
+Jay DeVon Johnson,,"Cinnamon', 'Greenleaf', 'Dear Santa, I Need a Date', 'Nancy Drew y la escalera escondida'","Reparto', 'Producción', 'Equipos adicionales'",
+Drez Ryan,,"A New Orleans Noel', 'Panhandle', 'Moonshot', 'Ordinary Joe'",Reparto',
+Christian Brunetti,,"Falcon y el Soldado de Invierno', 'Black Lightning', 'Max', 'House of Cards'","Especialistas', 'Reparto', 'Equipos adicionales'",
+Kimberly Ann Parker,,"Enjambre', ""Somebody's Child"", '3 Day Promise', 'Black Mafia Family'","Reparto', 'Producción', 'Guion'",
+Samantha Peel,,"""The Supremes at Earl's All-You-Can-Eat"", 'On the Come Up', 'Insatiable', 'Los últimos días de Ptolemy Grey'",Reparto',
+Aaron Rosendary,,"Megan Leavey', 'Ranam', 'Army Wives', 'Homeland'","Guion y continuidad', 'Reparto', 'Especialistas'",
+Catherine Anderson,,"Grassman', 'Murder Bowl', 'The Caretaker', 'Made in Cleveland'","Reparto', 'Vestuario', 'Maquillaje'",1
+Jerry Lee Tucker,,"La última bandera', 'Pequeño Demonio', 'Criminal Activities', 'None'","Reparto', 'Producción', 'Dirección'",1
+Frank Merkx,,"What About American History', 'A Documentary', 'Belching 37', 'A Hong Kong Opera'","Reparto', 'Dirección', 'Producción'",1
+Kristian Van der Heyden,,"Lamunan Oi!', 'Como reinas', 'Semalu', 'Under'","Producción', 'Reparto', 'Guion'",7
+Javier Botet,1977,"It', 'Amigo', 'La momia', 'Expediente Warren: El caso Enfield'","Reparto', 'Guion', 'Producción'",12
+Julián Génisson,,"Ayudar al ojo humano', 'Esa sensación', 'La tumba de Bruce Lee', 'Inmotep'","Reparto', 'Guion', 'Dirección'",1
+Lorena Iglesias,,"La tumba de Bruce Lee', 'Ayudar al ojo humano', 'Dioses autonómicos', 'Mamántula'","Reparto', 'Dirección', 'Guion'",
+David Pareja,,"Amigo', 'La mesita del comedor', 'The Kids', 'Mirada perdida'","Reparto', 'Guion', 'Dirección'",11
+Mireia Pérez,,"Bon Dia Bonica', 'Negocis de família', 'Fugitiva', 'Un suave olor a canela'",Reparto',
+Aaron Rux,,"La tumba de Bruce Lee', 'Vergüenza', 'Todos tus secretos', 'Purgatorio'","Composición', 'Reparto', 'Música'",
+Xabi Tolosa,,"Cabás', 'Biotopía', 'Todos tus secretos', 'Mantícora'","Reparto', 'Producción'",
+Zach Kanner,,"For You, Anything', 'Desperate Acts of Magic', 'Mi película de la cienciología', 'Easter Bloody Easter'","Reparto', 'Producción', 'Dirección'",
+Tom Rathbone,,"Obituary of the Sun', 'Madison Avery', 'Coffee and ECigarettes', 'None'",Reparto',
+Lec Zorn,197,"The Marsh Man', 'Ghost Bartender', 'The Hacker', 'The Diamond Chase'","Reparto', 'Producción', 'Guion'",
+Nicolas Akrabov,,"Cello', 'Shooting star', 'The Last Attempt', 'None'","Dirección', 'Reparto', 'Guion'",
+Radostina Vasileva,,"AJ Tracey: Live on the River Thames - Hennessy Courts Beyond Limits', 'None', 'None', 'None'",Edición',
+Andrea Stefancikova,,"Debris', 'Výnimocná Nikol', 'American Badger', 'Below Her Mouth'","Reparto', 'Producción', 'Dirección de casting'",2
+Kirk Caouette,,"X-Men 2', 'Dream with You', 'A Xiu Luo', 'Elektra'","Especialistas', 'Guion', 'Dirección'",4
+Michael Kopsa,1956,"Los 4 Fantásticos', 'Apollo 18', 'Love Happens', 'El origen del planeta de los simios'","Reparto', 'Banda sonora'",
+Milan Stefancik,,"Promiseland', 'American Badger', 'None', 'None'",Reparto',
+Zak Santiago,,"Human Cargo', 'Young Blades', 'Ultimátum a la Tierra', 'Perfect Sisters'","Reparto', 'Producción', 'Especialistas'",1
+Adrian Hough,,"Home Before Dark', ""Assassin's Creed III"", ""X-Men '97"", 'Las escalofriantes aventuras de Sabrina'",Reparto',
+Sean Kohnke,,"Predator', 'Deadpool 2', 'El rascacielos', 'Warrior'","Especialistas', 'Reparto', 'Guion'",
+Tristan Risk,198,"Frankenstein Created Bikers', 'American Mary', 'Amazon Hot Box', 'Ayla'","Reparto', 'Guion', 'Dirección'",6
+John Sampson,,"Paycheck', 'El equipo A', 'Redención (Southpaw)', 'The Lookout'","Especialistas', 'Efectos especiales', 'Equipos adicionales'",
+Mark Skip Schilperoort,,"American Badger', 'Promiseland', 'None', 'None'",Reparto',
+Dony Ndadem,,"Nouveau stock', 'Par elles, pour elles', 'None', 'None'",Reparto',
+Yannick Nkongnte,,"Empoisonnement', 'Par elles, pour elles', 'Nouveau stock', 'Halte'","Reparto', 'Edición', 'Sonido'",
+Sami Allison,,"Proud Citizen', 'Fort Maria', 'None', 'None'",Reparto',
+Blakeley Burger,,"Proud Citizen', 'None', 'None', 'None'",Reparto',
+Ryan Case,198,"Modern Family', 'Fire Me', 'The Mindy Project', 'Brooklyn Nine-Nine'","Edición', 'Dirección', 'Producción'",2
+Natalie Cummins,,"Proud Citizen', 'None', 'None', 'None'",Reparto',2
+Elliott Moore Haynes,,"Proud Citizen', 'None', 'None', 'None'",Reparto',2
+Leif Rigney,,"Proud Citizen', 'Hitting the Cycle', 'None', 'None'",Reparto',2
+Judy Sanders,,"Proud Citizen', 'None', 'None', 'None'",Reparto',2
+Katerina Stoykova-Klemer,,"Proud Citizen', 'The Way Things Are', 'Fort Maria', 'Love at 48'","Reparto', 'Guion', 'Equipos adicionales'",2
+Irina Alfyorova,1951,"""D'Artanyan i tri mushketyora"", 'Geroy nashego vremeni', 'Parol znali dvoye', 'S lyubimymi ne rasstavaytes'",Reparto',1
+Ellina Bandeeva,,"Druzya druzey', 'Starye Shishki', 'Zhizn po vyzovu', 'Galustyan+'",Reparto',1
+Sergey Batalov,1957,"Kolya - perekati pole', 'Bratya Karamazovy', 'Una composición para el día de la victoria', 'Arifmetika lyubvi'",Reparto',1
+Maksim Belborodov,1989,"Ikariya', 'Zloy gorod', 'Oderzhimaya', 'Krepost Badaber'",Reparto',1
+Sergey Borisov,,"Sin amor', 'Leviatán', 'Portret v sumerkakh', 'Komandir'",Reparto',1
+Peter Chernyaev,,"Starye Shishki', 'None', 'None', 'None'",Reparto',1
+Aleksey Guskov,1958,"Otets', 'Ragin', 'Las confesiones', 'Granitsa. Tayozhnyy roman'","Reparto', 'Producción'",2
+Macy Minear,,"All of You Will Die', 'Deadly Cheers', 'Share?', 'Hurtcore'",Reparto',1
+Yana Sheuko,,"Hurtcore', 'The Host App', 'LIVE FEED: Breakdown', 'Gaslit'",Reparto',1
+Sasha Prince,,"Hurtcore', 'Justice League Dark: Best of the Worst', ""Kyle's Pocket Dial"", 'Hollywood Laundromat'","Reparto', 'Decoración'",1
+Spencer Vaughn Kelly,,"WordLotto', 'Hurtcore', 'The Shell', 'Bonus Trip'","Reparto', 'Dirección', 'Guion'",4
+Kaleb Anthony,,"Hurtcore', 'Still Standing', 'None', 'None'","Reparto', 'Equipos adicionales'",1
+Patriana Jones,,"Climax: The Web-Series', 'Consent', 'Sorrow Is the Most Ennobling Emotion', 'None'","Reparto', 'Guion', 'Producción'",1
+Kimiko McCarthy,,"Love & Us', 'Consent', 'None', 'None'",Reparto',1
+Romel Rose,,"""America's Pit Bull"", 'Because of the Internet', 'High Yellow', 'John'","Reparto', 'Equipos adicionales', 'Producción'",3
+Danielle Sappleton,,"The Super Pops', 'The Rap Pops', 'Jinn', 'Big Bear Weekend: Tangled Wed of Deceit'","Reparto', 'Música'",3
+Didier Bourdon,1959,"3 hermanos... muy primos', 'Un buen año', 'Madame Irma', '3 hermanos y una herencia'","Reparto', 'Guion', 'Dirección'",3
+Gérard Darmon,1948,"Astérix y Obélix: Misión Cleopatra', 'Betty Blue', 'El buen ladrón', 'Vous êtes jeunes vous êtes beaux'","Reparto', 'Guion', 'Cámara y electricidad'",2
+Paloma Coquant,1989,"7 días en Entebbe', 'Munch', 'Arthur Curse', 'Bright Minds'",Reparto',2
+Chantal Lauby,1948,"La jaula dorada', 'Tus manos en mi cintura', 'Dios mío, ¿pero qué te hemos hecho?', 'Astérix y Obélix: Misión Cleopatra'","Reparto', 'Guion', 'Dirección'",2
+Niina Koponen,,"Ollaan vapaita', 'Rat King', 'Theon talo', 'Putous'","Reparto', 'Guion', 'Vestuario'",
+Ada Forsberg,,"Juha', 'Juhannusyö', 'Sijainen', 'Luottomies'","Reparto', 'Especialistas'",
+Kaisa Hela,,"Piiritys', 'Dyykkivuoro', 'Kummeli V', 'Kontio & Parmas'","Reparto', 'Guion', 'Producción'",
+Asko Vaarala,,"Vähän kunnioitusta', 'Onnesta', 'Kosta (The paradise)', 'Nöyryydestä'","Reparto', 'Música', 'Banda sonora'",
+Pyry Nikkilä,,"Love Records - anna mulle Lovee', 'Sekunnit', 'Ollaan vapaita', 'Kaikki huutaa Dingo!'","Reparto', 'Música', 'Banda sonora'",
+Graeme Bernier,,"Carissima (Dearest)', 'Baby Teeth', 'Revel', 'None'",Reparto',
+Elizabeth Blanco,,"Lucid', 'The Museum of the Abortion Wars', 'The Author', 'Bunk Beds'",Reparto',
+Anik Desmarais-Spencer,,"Carissima (Dearest)', 'Baby Teeth', 'Slip', 'All-In Madonna'","Dirección', 'Guion', 'Producción'",
+George William Lambert,,"Lucid', 'Carissima (Dearest)', 'Baby Teeth', 'None'",Reparto',
+Missie Peters,,"Carissima (Dearest)', 'None', 'None', 'None'",Reparto',
+Maija Makila,,"Sigue el ritmo', 'Amour', 'The Next Step', 'None'","Reparto', 'Maquillaje'",
+Delaney Weller,,"Amour', 'None', 'None', 'None'","Reparto', 'Maquillaje'",
+Danielle Yvie Chambers,,"Chucky', 'TallBoyz', 'Venganza: Orígenes', 'Open Heart'",Reparto',
+Michael Lake,,"Edwin', 'The Treatment', 'After Mum', 'Purgatory'","Reparto', 'Producción', 'Guion'",19
+Zoe Alexa De Guzman,,"Amour', 'None', 'None', 'None'",Reparto',19
+Maya Jain,,"Amour', 'Untitled', 'Shattered', 'The Art of Moving Forward'","Reparto', 'Dirección', 'Guion'",
+Kaylyn Henricus,,"Amour', 'The Art of Moving Forward', 'None', 'None'","Reparto', 'Composición'",
+Clara Moniz,,"Amour', 'None', 'None', 'None'",Reparto',
+Jessica Pace,,"The Wilderness Night', 'None', 'None', 'None'",Reparto',
+Shyanne Rego,,"Amour', 'None', 'None', 'None'",Reparto',
+Patrik Humený,,"Zlehka', 'Srdcové Eso', 'Polibek Reality', 'Barvy Osudu'","Reparto', 'Dirección', 'Sonido'",
+Tereza Chalusová,,"Polibek Reality', 'Zkus to znovu', 'None', 'None'","Reparto', 'Sonido'",
+Jonás Bradík,,"Ostre sledované papuce', 'V Jednom Ohni', 'Polibek Reality', 'Kriminálka Ambro'","Reparto', 'Guion y continuidad', 'Sonido'",
+Karolína Nová,,"Bratri', 'Osada', 'Pan profesor', 'Odznak Vysocina'",Reparto',
+Katerina Bacíková,,"Ostre sledované papuce', 'Polibek Reality', 'None', 'None'","Reparto', 'Cámara y electricidad', 'Guion y continuidad'",
+Katerina Alexová,,"Rozpad', 'Polibek Reality', 'Ostre sledované papuce', 'Poslední portrét'","Sonido', 'Reparto', 'Arte'",
+Krystof Pipek,,"Polibek Reality', 'None', 'None', 'None'","Reparto', 'Cámara y electricidad', 'Sonido'",
+Zuzana Lisková,,"Polibek Reality', 'None', 'None', 'None'","Cámara y electricidad', 'Reparto'",
+Kristýna Líbalová,,"On vám to ríkal', 'Nevysvetlitelná', 'A co si o tom myslí buh?', 'Polibek Reality'","Reparto', 'Cámara y electricidad', 'Maquillaje'",
+Agáta Tichá,,"Hlavolam', 'On vám to ríkal', 'Polibek Reality', 'None'",Reparto',
+Dan Jopling,,"Pembroke Circle', 'Dream Season', 'Space Dad', 'River Money'","Reparto', 'Cámara y electricidad', 'Dirección de fotografía y cámara'",
+Croix Provence,,"Space Dad', 'The Final Wish', 'The Care & Keeping of Your Woman', 'October 31st'","Reparto', 'Producción', 'Dirección'",1
+Aswathi Balan,,"Sakath', 'Punarvasu Nakshatra Mithuna Raashi', 'Cheluvina Chittara', 'None'",Reparto',
+Vijay Karthik,,"MAX', 'None', 'None', 'None'",Dirección',
+Chivvaun Abigial,,"The Curse Within', 'None', 'None', 'None'",Reparto',
+Savannah Albright,,"The Curse Within', 'None', 'None', 'None'",Reparto',
+Eric Allen,1971,"El loft', 'Casi famosos', 'Modern Family', 'Mascotas'","Reparto', 'Guion', 'Banda sonora'",7
+Maya Bailey,,"3 días de oscuridad', '1.', 'Power Rangers Beast Morphers', 'Being Eve'",Maquillaje',7
+Nyisha Bell,1995,"""Jakob's Wife"", 'Tom Swift', 'Bitter', 'None'",Reparto',7
+Brian Brown,1963,"La balada de Buster Scruggs', 'Iron Man', 'Cowboys & Aliens', 'La sombra del reino'","Especialistas', 'Reparto', 'Equipos adicionales'",
+Lovelle Burley,,"The Curse Within', 'None', 'None', 'None'",Reparto',
+Brandon Foster,,"This Is Us', 'RuPaul: Reinas del drag', 'None', 'None'",Reparto',
+Kait Kinley,,"Falling In Love', 'The Curse Within', 'The Same Coin', 'The Drone That Saved Christmas'",Reparto',
+Brandon McGee,,"Truth or Dare', 'The Last Supper', 'Love Yourz', 'Innocent Shots'",Reparto',
+Corey Corbett,,"Brief Is Love & Life Is Long', 'Fiore', 'Whirlwind', 'The Fall'","Cámara y electricidad', 'Producción', 'Efectos visuales'",
+Payne Gregory,1987,"""The Gentle, A Film Inspired by Aesop's Fable the Sun and the North Wind"", 'The Long Way Inspired by the Hare and Tortoise', 'None', 'None'","Producción', 'Dirección', 'Guion'",
+Chris Morris,,"Never Mind the Buzzcocks', 'The One Show', 'None', 'None'",None,
+Charles Nguyen,,"Chainsaw Man', 'Genshin Impact', 'Spice & Wolf: merchant meets the wise wolf', 'Orion: A Sci-Fi Visual Novel'",Reparto',
+Mary Katherine Wise,,"Exaltation', 'None', 'None', 'None'",Producción',
+Dima Novikov,,"A Second Chance', 'A wish', 'Ultra Tennis', 'Unseen'","Dirección de fotografía y cámara', 'Efectos visuales', 'Edición'",
+Yuriy Zhirov,,"Uncovered', 'A wish', 'Ultra Tennis', 'The Ugly Dance'","Reparto', 'Dirección', 'Guion'",
+Antho -Unikement-,,"Jade & Anthony', 'None', 'None', 'None'","Reparto', 'Guion', 'Localización'",
+Johana Morançais,,"Jade & Anthony', 'None', 'None', 'None'","Reparto', 'Guion'",
+Patrick Finger,,"Chalet Girl', 'Pornorama', 'Sturm der Liebe', 'En el lugar del crimen'",Reparto',
+Bloß Susanne,,"Blutsbande', 'The Room', 'Tabaluga tivi', 'None'",Reparto',
+Gísli Freyr Eggertsson,,"Astrópía', 'Wolf', 'The Curse of the House', 'The House - Meeting Joshua'",Reparto',
+Betúel Ingólfsson,,"Wolf', 'The Curse of the House', 'None', 'None'","Reparto', 'Arte', 'Producción'",
+Vilius Petrikas,199,"Bajo el sótano', 'Ocean Treks with Jeff Corwin', 'Soul Cry', 'Existence'","Cámara y electricidad', 'Producción', 'Edición'",1
+Rósa Ásgeirsdóttir,,"Delirium', 'Wolf', 'Vampyr', 'None'","Reparto', 'Vestuario'",1
+Mark Fountain,,"Sorted', 'Soldiers of damned', 'No Angels', 'Casualty'",Reparto',1
+Simon Glenn,,"Chugger', 'The Caller', 'The Great Train Robbery', 'None'",Reparto',1
+Leslie Fender,,"Arriving', 'Pendulum', 'The Visitor', 'Tip Your Waitress'","Reparto', 'Vestuario', 'Diseño de vestuario'",
+John Harris,193,"Sin perdón', 'Gladiator (El gladiador)', 'Camelot', 'La venganza del conde de Montecristo'","Reparto', 'Producción', 'Dirección'",11
+Joseph Rene,,"Beyond the Red City', 'The Demon Inside', 'The Division: The Hands of War', 'Mataría por ti'",Reparto',
+James Dougal,,"Covidrama', 'The Summoning', 'None', 'None'",Reparto',
+Fernanda Lara,,"Silverpoint', 'The Summoning', 'None', 'None'",Reparto',
+Nadia Milliken,,"The Irish Mob', 'The Summoning', 'None', 'None'",Reparto',
+Ethan Savage,,"Dom & Knox', 'Absence', 'My Renaissance', 'None'",Reparto',
+Adam Wallace,,"The Kid and the Coma', 'CollegeHumor Originals', 'Unmasked: Sidewalk Superheroes', 'Hot Dog'","Reparto', 'Guion', 'Producción'",
+Juanita Adams,,"Everyone Is Doing Great', 'Good News', 'Whodunnit?', 'None'",Reparto',
+Rana Ashuri,,"The Program (SSR-7)', 'Shoot', 'The Foreigner', 'Yasmine'","Reparto', 'Producción'",
+Sam McAtee,,"I Love You But', 'None', 'None', 'None'",Equipos adicionales',
+Izzi Rojas,,"When Men Were Men', 'Lost at Sea', 'Serious Matters in the Middle of the Night', 'Boys About Town #4'","Reparto', 'Guion', 'Dirección'",1
+Jon Zuber,,"""Canyon's Edge"", 'Number 9', 'Calaveras Creek', 'Killer Holiday'","Producción', 'Guion', 'Reparto'",
+Emmanuel Abah,,"Memoir', 'None', 'None', 'None'",Reparto',
+John Aie,,"None', 'None', 'None', 'None'","224', '1h 15min'",1
+Gloria Anozie,,"The Weekend', 'Back to Life', 'Half of a Yellow Sun', 'Finding Happiness'","Reparto', 'Equipos adicionales'",
+Vanessa Arit,,"First Time', 'Sorrow Gate', 'Memoir', 'Obinmapu'",Reparto',
+Abbey Awobimpe,,"Lagos Landing', 'Her Faithful Man', 'An Unlikely Pair', 'Subterfuge'","Dirección de arte', 'Arte', 'Diseño de producción'",
+Njoku Benjamin,,"The Bodyguard', 'Memoir', 'None', 'None'",Reparto',
+Emeka Duru,,"Cooked Up Love', 'Ordinary People', 'Four Wives and a Mistress', 'The Wedding'","Dirección de producción', 'Reparto', 'Producción'",
+Tonia Edet,,"Memoir', 'Hold Hands', 'None', 'None'",Reparto',
+Onyeka Francis,,"This is how it ends', ""Adam's Apple"", 'Impaired', 'Middle of Nowhere'","Dirección de producción', 'Reparto', 'Arte'",
+Echelon Mbadiwe,,"Yahoo+', 'Remembrance of a Forgotten Man', 'Laurie', 'Twist of Fate'",Reparto',
+Jorma Karlstedt,,"I Need My Space', 'Koukussa', 'Nuotin vierestä', 'Viraali'",Reparto',
+Kalle Kurikkala,,"Pysähtynyt Kello', 'Viimeinen Suudelma', 'Parrasvaloissa', 'None'",Reparto',
+Ari Nieminen,,"Lyhyitä erikoisia', 'Jos rakastat', 'Ártico', 'Suurmestari'","Arte', 'Equipos adicionales', 'Localización'",
+Aino Paranko,,"Viimeinen Suudelma', 'Rakkauden Tähden Huomisesta eiliseen', 'Pysähtynyt Kello', 'Kontakti'",Reparto',
+Vic Reeves,1959,"Catterick', 'Vic Reeves Big Night Out', 'House of Fools', 'Los años dorados de Hollywood'","Reparto', 'Guion', 'Música'",2
+Michael Fish,,"Los Conner', 'Roseanne', 'Seinfeld', 'Abducted by My Teacher: The Elizabeth Thomas Story'","Reparto', 'Dirección', 'Producción'",3
+Mallory Everton,,"Recovery', 'Villains Inc', 'Freelancers', 'Studio C'","Reparto', 'Guion', 'Dirección'",8
+Colin Mochrie,1957,"Whose Line Is It Anyway?', 'Jane White Is Sick & Twisted', 'Getting Along Famously', 'This Hour Has 22 Minutes'","Reparto', 'Producción', 'Guion'",9
+Jason Gray,197,"Monk', 'Una mente maravillosa', 'Banderas de nuestros padres', 'Justified: La ley de Raylan'","Reparto', 'Banda sonora'",
+Billy Mann,,"Spidey Beats', 'The Paradise Planets: The Fallen from Paradise', 'Lunchtime Battle: A Mobile Strike Story', 'Villains Inc'",Reparto',
+Jeff Bryan Davis,1973,"Deep Impact', 'Final fantasy: La fuerza interior', 'Titanic', 'Un loco a domicilio'","Guion', 'Dirección', 'Reparto'",
+Joe Bereta,1982,"Smosh', 'Every Blank Ever', 'The Big What If', 'Smosh Summer Games 216: Camp'","Reparto', 'Equipos adicionales', 'Dirección de la segunda unidad o asistencia a dirección'",
+Charla Bocchicchio,,"The Chosen', 'Yellowstone', 'He Never Left', 'Villains Inc'",Reparto',5
+Gabriel Casdorph,,"Los asesinos de la luna', 'Wind River', 'Damsel', 'Yellowstone'","Reparto', 'Dirección', 'Dirección de fotografía y cámara'",1
+GloZell Green,1972,"Trolls', 'Escape the Night', 'El gurú de las bodas', 'Ralph rompe Internet'","Reparto', 'Casting', 'Banda sonora'",1
+Archelaus Crisanto,,"The Tailypo: A Folktale', 'Deadstream', 'Secondhand Hearts', 'Creatures of Whitechapel'","Reparto', 'Equipos adicionales', 'Dirección de la segunda unidad o asistencia a dirección'",
+Allison Edwards,,"El cuento de la criada', 'Monster', 'Initiation', ""A Witches' Ball""","Reparto', 'Producción'",
+Jon Parker,,"The Secret Life of Amy Bensen', 'The Anthology of Julius, the Nigerian Immigrant', 'None', 'None'","Reparto', 'Guion'",
+Will Reverman,,"Images', 'None', 'None', 'None'",Reparto',
+Stone Taul,,"Viceroy', 'Leave in the Morning', 'Red Ink', 'Regret'","Reparto', 'Sonido', 'Dirección'",1
+Dean Parker,,"Images', 'Regret', 'Together', 'No Love in Loveland'","Dirección', 'Edición', 'Guion'",11
+Nathan Anthony,,"BioShock', 'The Last of Us', 'BioShock Infinite', 'The Last of Us: Left Behind'","Reparto', 'Arte', 'Dirección de arte'",
+Luke Harris,,"Triangle', 'Furia de titanes', 'Australia', 'Arthur Christmas: Operación regalo'","Animación', 'Efectos visuales', 'Arte'",
+James McCormick,1992,"Scary Movie 5', 'Tall Girl', 'Arma letal', 'Mac Miller: Clarity'","Music Artist', 'Reparto', 'Composición'",
+Kris Alexandrea,,"Rot', 'Venganza personal', 'Gothic Springs', 'Unicorn'","Reparto', 'Guion', 'Producción'",
+Kris Ann Russell,,"Saved by the Bell', 'Finding Love in Big Sky, Montana', 'Justin Bieber: Hold On', '32 Weeks'","Reparto', 'Guion', 'Dirección'",
+Linda Burzynski,,"Big Little Lies', 'Shameless', 'Animal Kingdom', 'Fear, Love, and Agoraphobia'","Reparto', 'Producción', 'Guion'",3
+Eileen Dietz,1944,"Abnormal Attraction', ""David Holzman's Diary"", 'Hospital General', 'Halloween 2'","Reparto', 'Producción'",2
+Johnny Kostrey,,"Aquarius', 'Lucky Bastard', 'Asuntos de estado', 'Channeling'",Reparto',2
+Fagner Soares,,"I Seek Your Help to Bury a Man', 'Os Mais Amados', 'None', 'None'",Reparto',
+Margareth Galvão,,"A Noite do Chupacabras', 'A Morte da Mulata', 'Teobaldo Morto, Romeu Exilado', 'A Mesa no Deserto'",Reparto',
+Miguel Muhd,,"I Seek Your Help to Bury a Man', 'None', 'None', 'None'",Reparto',
+Higor Campagnaro,1983,"Um Animal Amarelo', 'Os Primeiros Soldados', 'Futuro Futuro', 'Punhal'","Reparto', 'Equipos adicionales'",1
+Guaja,1965,"Kalifornia', 'True Blood', '213: Rescate en L.A.', 'Los juegos del hambre: Sinsajo - Parte 2'",Reparto',4
+Erik Martíncues,,"Luz nos Trópicos', 'As Horas Vulgares', 'Teobaldo Morto, Romeu Exilado', 'I Seek Your Help to Bury a Man'",Reparto',
+Thelma Lopes,,"O Consultório', 'Dama Inerte', 'O Cemitério das Almas Perdidas', 'Destino das Sombras'",Reparto',
+Kunal Bose,,"Carpe Diem', 'Waiting Room', 'None', 'None'","Reparto', 'Guion'",
+Krishnakash Giri,,"Prey', 'Waiting Room', 'Felony', 'None'","Reparto', 'Producción'",
+Aditya Sadhukhan,,"Prey', 'Headphone', 'The Hottest Guy in the College', 'Felony'","Reparto', 'Guion', 'Música'",
+Jay Thames,,"Go North', 'I Dream Too Much', 'The Power of Few', 'Hijos de la anarquía'","Producción', 'Reparto', 'Guion'",
+Dave Bobb,,"Succession', 'La vida y Beth', 'FBI: Most Wanted', 'Girls5eva'","Reparto', 'Dirección', 'Producción'",
+M.L. Josepher,,"Sanju', 'Beeotch', 'Sweet Thing', 'Ram Dass, Going Home'","Reparto', 'Producción'",
+Chris Jun,,"Connect', 'Last Night in the ATL', 'The Unanointed', 'The Enslaved'","Reparto', 'Guion', 'Composición'",
+Nana Ponceleon,,"La hora cero', 'Doubt of You', 'The Birthmark Killer', 'City of Gold'","Reparto', 'Guion', 'Producción'",
+Julian Sarin,,"The Garden', 'None', 'None', 'None'",Reparto',
+Martin Goeres,1984,"Constelación', 'Matrix Resurrections', 'Wonder Woman', 'Misión: Imposible - Nación secreta'","Especialistas', 'Efectos especiales', 'Dirección de la segunda unidad o asistencia a dirección'",3
+Natalie Loader,,"Distorted', 'The Zombie Diaries', 'Mr Lewis', 'Noise'",Reparto',3
+Duncan Wigman,,"One by One', 'Noise', 'Toothbrush', 'The Watcher'",Reparto',3
+Michael Soldier,,"None', 'None', 'None', 'None'","Especial de TV', '223', '12min'",3
+Tony Sommers,,"Initiation 3', 'Demonology', 'Twisting Fate with Death and Larry', 'Initiation Episode 2'","Reparto', 'Producción'",3
+Valerie Weak,,"Por trece razones', 'The Snake', 'Skywatch', 'Suicide'","Reparto', 'Guion', 'Producción'",3
+Reggie D. White,,"Blindspot', 'Gotham', 'Medias Res', 'Rebound'",Reparto',3
+Jean Aviat,,"Foto de familia', ""L'amie de l'été"", 'Le roi qui contemplait la mer', 'None'",Reparto',3
+Syrine Conesa,,"""L'amie de l'été"", 'None', 'None', 'None'",Reparto',3
+Tim Rousseau,,"Amok', 'Las 7 vidas de Léa', 'Plus belle la vie, encore plus belle', 'Plus belle la vie'","Reparto', 'Dirección', 'Guion'",3
+Tomás Bubeník,,"Nespavost', 'Welcome to Prague', 'Metro', 'None'",Reparto',3
+Lukas Gavran,,"Ztracené léto', 'Welcome to Prague', 'None', 'None'","Reparto', 'Producción'",3
+Hanka Láznová,,"Nespavost', 'Welcome to Prague', 'None', 'None'",Reparto',3
+Jessica Kinsella,,"Mixology', 'Betch', ""Blake Shelton's Not So Family Christmas"", 'None'","Reparto', 'Guion', 'Producción'",3
+Laura Keller,,"Runaways', 'The Middle', 'Terapia con Charlie', 'Paraíso'","Reparto', 'Guion', 'Producción'",
+Aliee Chan,,"Quirky Female Protagonist', 'New Girl', 'The Middle', 'The Rookie'","Reparto', 'Guion', 'Producción'",
+Sofie Norman,,"Get the Girl', 'FBI: International', 'Interface', 'Millennium: Lo que no te mata te hace más fuerte'",Reparto',
+Ian Roberts,1965,"A por todas', 'Key and Peele', 'Hermanos por pelotas', 'Pasado de vueltas'","Reparto', 'Guion', 'Producción'",2
+Andreas Beckett,1969,"Transformers: La era de la extinción', 'Counterpart', 'NCIS: Los Ángeles', 'Saturday Night Live'","Reparto', 'Equipos adicionales', 'Producción'",2
+David Delagarza,,"Vendetta', 'The Assassins', 'Among the Shadows', 'Vendetta'","Reparto', 'Especialistas', 'Cámara y electricidad'",2
+Stu Hammill,,"Real Heroes', 'Vendetta', 'The Chester Kids', 'Vendetta'","Reparto', 'Cámara y electricidad', 'Equipos adicionales'",
+Adam D. James,,"Caught', 'Volverás en mis sueños', 'This Is Happening', 'The Lovely Rejects'","Cámara y electricidad', 'Equipos adicionales', 'Reparto'",
+Nick Somers,,"My Christmas Wish', 'Among the Shadows', 'Horror Haiku', 'Vendetta'","Producción', 'Reparto', 'Dirección de fotografía y cámara'",1
+James Tumminia,,"Love, Gilda', 'Melissa & Joey', '1st Strike', 'Resident Evil: Extinción'","Producción', 'Equipos adicionales', 'Reparto'",7
+Hunter Goligoski,,"1923', 'Agony', 'Boy, Toxic', 'Misery King'","Reparto', 'Dirección', 'Guion'",7
+Emily Ciccarelli,,"Funny Bone', 'The Man with the Many Umbrellas', 'France Europe express', 'None'",Reparto',7
+Daniel McGill,,"Funny Bone', 'Funny Bone', 'None', 'None'",Reparto',7
+Ashleigh-Rose Nicholson,,"The Orchard', 'The Highlighter Games', 'Funny Bone', 'None'",Reparto',7
+Elizabeth O'Callaghan,,"Mondo Yakuza', 'Freelance', 'Luna Seven', 'Bernie Brown'","Reparto', 'Localización', 'Equipos adicionales'",7
+Andy Rhodes,,"Todo un hombre', 'None', 'None', 'None'",Cámara y electricidad',7
+Sheila Ley,,"Entre Reticências', 'The Professor', 'A Complex Mongrel Story', 'Belong'",Reparto',7
+André Nepomuceno,,"Caminhos Macabros', 'Um Ano Inesquecível: Verão', 'Unidade Básica', 'Entre Reticências'",Reparto',7
+Kassandra Herzog,,"Temerás a tu vecino', 'Stall', 'Crímenes en la Red', 'None'",Reparto',
+Lyle Lettau,,"iZombie', 'Spring Bloom', 'Degrassi: Next Class', 'Arthur'","Reparto', 'Banda sonora'",1
+Swaylee Loughnane,1982,"Connie Lynn', 'Bank on us', 'World Cup Heist', 'Cream'","Reparto', 'Producción', 'Dirección'",3
+Sam Richardson,1984,"Veep', 'Detroiters', 'Mike y Dave buscan rollo serio', 'Somos los Miller'","Reparto', 'Guion', 'Producción'",3
+Tonjha Richardson,,"Transplant', 'The Jane Mysteries: Inheritance Lost', 'Accused', 'All Aboard for Love'","Reparto', 'Guion', 'Producción'",
+Lydia Gonzáles,,"Deaf Buildings', 'None', 'None', 'None'",Reparto',
+Pedro Peral Jr.,,"Deaf Buildings', 'None', 'None', 'None'",Reparto',
+Pedro Peral,,"Ascensão', 'Noite Perpétua', 'Mupepy Munatim', 'Ninguém'","Dirección', 'Guion', 'Producción'",13
+Victor Ayala,,"Destino final 3', 'Percy Jackson y el ladrón del rayo', 'Prison Break', 'Continuum'","Reparto', 'Especialistas'",13
+Nicole Burgess,,"Dopesick: Historia de una adicción', 'Birds of a Feather 2', 'But Deliver Us from Evil', 'Voidfinder'","Reparto', 'Guion', 'Dirección de la segunda unidad o asistencia a dirección'",13
+Adam Hooker,,"Heart of the Dead', 'None', 'None', 'None'",Reparto',13
+Josh Townsend,,"The Gainesville Ripper', 'Loyalty', 'No Budget', 'Whore'","Producción', 'Reparto', 'Cámara y electricidad'",13
+Adam Adrian,,"A view from here', 'A Tape Odyssey', 'None', 'None'",Reparto',
+Bethany Fenton,,"A view from here', 'None', 'None', 'None'",Reparto',
+David Gries,,"Free Pie', 'The Lost Within', 'Still', 'The Christ Slayer'","Reparto', 'Producción', 'Arte'",8
+Kate Rudd,,"Perks', 'Zorg and Andy', 'The Dread', 'Bullies on Vacation'","Reparto', 'Producción'",
+Jake Stevens,,"None', 'None', 'None', 'None'",None,
+Rosalind Eleazar,1988,"Slow Horses', 'La increíble historia de David Copperfield', 'Tío Vanya', 'Regreso a Howards End'",Reparto',
+Meg Salter,,"A Song for Jenny', 'BBC3 Quickies', 'El cazador de cabezas', 'None'","Reparto', 'Guion', 'Producción'",
+Sally O'Leary,,"The Emily Atack Show', 'BBC3 Quickies', 'Buffering', 'Bendita paciencia (Breeders)'","Guion', 'Reparto', 'Producción'",
+Jelisa Ferguson,,"F**KED', 'None', 'None', 'None'",Reparto',
+Omar Harrak,,"F**KED', 'None', 'None', 'None'",Reparto',
+Arak Amornsupasiri,,"Slice', 'Body sob 19', 'Rak/Saam/Sao', '3+ Soht On Sale'","Reparto', 'Especialistas'",
+Sirat Intarachote,,"4 Kings', '4 Kings 2', 'App War', 'Die Tomorrow'",Reparto',
+Nat Kitcharit,,"Reo hoad... muean kod ter', 'App War', '4 Kings', 'I Told Sunset About You'",Reparto',
+Akarin Akaranithimetrad,,"Tawan Tat Burapha', '4 Kings', 'Baker Boys', 'The Messenger'",Reparto',
+Joke Akarin Akaranithimetrad,,"4 Kings', 'None', 'None', 'None'",Reparto',
+Akarin Akaranitimaytharatt,,"4 Kings', '3x3D', 'None', 'None'",Reparto',
+Pae Arak Amornsupasiri,,"4 Kings', 'None', 'None', 'None'",Reparto',
+Paluda Apiromrat,,"4 Kings', '3x3D', 'None', 'None'",Reparto',
+Ratchanee Boontatharokul,,"4 Kings', 'None', 'None', 'None'",Reparto',
+Ratchanee Boonyatharokul,,"Buenos viejos tiempos', 'Our Skyy', 'None', 'None'",Reparto',
+Rushikesh,,"Maan Guntale', 'None', 'None', 'None'",Reparto',
+Sanjayshankar,,"Arunodaya... A New Dawn', 'None', 'None', 'None'","Dirección', 'Reparto', 'Edición'",
+Satya,,"None', 'None', 'None', 'None'","224', '2h 2min'",
+Adam Howes,1983,"The Contract', 'The End of All Things', 'None', 'None'","Guion', 'Reparto', 'Producción'",2
+Alina Chan,,"The End of All Things', 'Earth', 'The Dark Channel', 'Culture Shock'","Reparto', 'Producción', 'Guion'",2
+Harry Davies,,"La chaqueta metálica', 'None', 'None', 'None'",Reparto',2
+Dhugal Fulton,,"The End of All Things', 'None', 'None', 'None'","Reparto', 'Equipos adicionales'",2
+Peter Coxhead,,"The End of All Things', 'None', 'None', 'None'",Reparto',2
+John Stirling,,"Nicholas Nickleby', 'Pepe Moreno', 'Double Cross', 'The Secret of the Forest'",Reparto',
+Paul Nelson,,"The Pod Generation', 'O Horizon', ""Mothers' Instinct"", 'Under My Skin'","Responsable', 'Producción'",
+Mary Rinaldi,,"Fatal Frames - Fotogrammi mortali', 'Sick-o-pathics', 'La grande prugna', 'Animali felici'","Reparto', 'Guion'",
+Nathan Coenen,1992,"Tinglewood', 'El club de los pijamas', 'Cut/Print', 'Teen Wolf'","Reparto', 'Equipos adicionales'",1
+Victoria Smith,,"Sistas', 'Truth or Dare', 'Hamlet & Hutch', 'The List'","Reparto', 'Casting', 'Equipos adicionales'",1
+Peter McCrohon,,"Twenty Twenty-Four', 'The Old Man of Waterloo', 'With Evil Intent', 'The Chanctonbury Ring'",Reparto',1
+Benny L Andrews Jr.,,"Why Wait?', 'This Christmas Chance', 'Message and the Messenger', 'Message and the Messenger'","Reparto', 'Dirección'",1
+Aaron Andrews,,"Survival of the Dumbest', 'None', 'None', 'None'",Reparto',1
+Derrick Deal,,"Why Wait?', 'Scream', 'Treme', 'Armed with a Heart'",Reparto',1
+Shauntrell Demesme,,"This Christmas Chance', 'Why Wait?', 'None', 'None'",Reparto',1
+Ashley Forrestier,,"A Nashville Legacy', 'Put a Ring on It', 'Urge', 'Strange Love'",Reparto',1
+Dee Hill,,"The SZN', 'The Ring Widow', 'The Wrong One', '4 Sisters'",Reparto',1
+Shelton Jolivette,,"Message and the Messenger', 'Zombie Tidal Wave', 'Dark Summer', 'The Day'","Reparto', 'Producción', 'Dirección de casting'",1
+DomiNque Perry,1988,"Dale duro', 'Insecure', 'American Hero', 'Because I Love You'",Reparto',1
+Stephen Sutton,,"None', 'None', 'None', 'None'",None,
+Keith Swanier Jr.,,"Why Wait?', 'None', 'None', 'None'",Reparto',
+Germán De Silva,,"Relatos salvajes', 'Las acacias', 'Los dos Papas', 'La educación del Rey'",Reparto',1
+Luz Palazón,,"Rancho aparte', 'El robo del siglo', 'La Misma Sangre', 'Hawaii'","Reparto', 'Guion'",1
+Julieta Rapalini,,"Fragmentada', 'Historias breves 12', 'El plan', 'Espejo'",Reparto',1
+Ciro Regner,,"Espejo', 'None', 'None', 'None'",Reparto',1
+Julieta Zylberberg,1983,"Relatos salvajes', 'La mirada invisible', 'Mi amiga del parque', 'La niña santa'","Reparto', 'Guion', 'Banda sonora'",5
+Matt Heymann,,"I, Helios', 'Tales from Shaolin Pt One Shakey Dog', 'Deafblind Couple', 'Baked in Brooklyn'","Cámara y electricidad', 'Dirección de fotografía y cámara', 'Producción'",
+Ben Warhit,,"El santo de las segundas oportunidades', 'Anthony Bourdain: un chef por el mundo', '¡Steve! (Martin): Un documental en 2 partes', 'The Next Thing You Eat'","Producción', 'Dirección de producción', 'Dirección'",
+Grant Rosenmeyer,1991,"Los Tenenbaums. Una familia de genios', 'Crazy Ex-Girlfriend', 'Cuando tú quieras', 'Oliver Beene'","Reparto', 'Producción', 'Guion'",2
+Zac Ruhland,,"Thunder Island', 'Finding the Invisible Man', 'Thunder Island', 'The Making of Razor River'",Reparto',
+Sam Ruhland,,"Razor River', 'Thunder Island', 'Thunder Island', 'Finding the Invisible Man'",Reparto',
+Jason Ruhland,,"Thunder Island', 'Razor River', 'Untitled Noir Film', 'Bob Came from Outer Space'","Producción', 'Dirección', 'Reparto'",
+Katharina Bintz,,"Ons Identitéit - Mir hunn se fonnt', 'Die Festung', 'Von Soldaten und Matrosen', 'None'","Reparto', 'Dirección', 'Guion'",
+Simina German,,"Die Festung', 'None', 'None', 'None'",Reparto',
+Sven Gey,,"En el lugar del crimen', 'Die Festung', 'Wintermärchen', 'Qazi'",Reparto',
+Markus Kiefer,,"Totgesagte leben länger', 'Tatort Calw - Hexensabbat', 'Village People - Voll Porno', 'Village People 2 - Auf der Jagd nach dem Nazigold'",Reparto',
+Verena Reichhardt,,"Kleine frieren auch im Sommer', 'Die Festung', 'Alzire oder der neue Kontinent', 'Willkommen im Club'",Reparto',
+Johanna Wieking,,"Lichter der Stadt', 'Ruf mich an!', 'Die Festung', 'Zum Tod meiner Mutter'",Reparto',
+Nishant Dahiya,1991,"83', 'Solitaria es la noche', 'Kedarnath', 'Akelli'",Reparto',
+Pragya Jaiswal,1988,"Kanche', 'Akhanda', 'Jaya Janaki Nayaka', 'Akhanda 2'",Reparto',2
+Nandini Singh,198,"Kesar', 'Ek Aur Ek Gyarah: By Hook or by Crook', 'Platform', 'Lo Main Aa Gaya'",Reparto',2
+Aanchal Singh,,"Dhayam', 'Titoo MBA', 'The Wife', 'Jackson Durai'","Reparto', 'Equipos adicionales'",
+Puja Ballutia,,"Titoo MBA', 'Mallika', 'Main Kaun Hoon', ""Sab Theek Hain ft. Madhoo A Wife's Dilemma the Short Cuts""","Guion', 'Reparto'",
+Satwant Kaur,,"Udta Punjab', 'Dev.D', 'Singh Is Kinng', 'Ekam: Son of Soil'",Reparto',
+Chander Kalra,,"Occidente es occidente', 'None', 'None', 'None'",Reparto',
+Balwinder Begowal,,"Jug Jugg Jeeyo', 'Ik Kudi Punjab Di', 'Best of Luck', 'Yaraan Naal Baharaan 2'",Reparto',
+Renu Mohali,,"Aaja Mexico Challiye', 'Titoo MBA', 'Saunkan Saunkne', 'Halla Ho: Mission 217'",Reparto',
+Arvinder Bhatti,,"Udta Punjab', 'Yaar Mera Rab Warga', 'Qismat', 'Kande'",Reparto',
+Soizic Belotti,,"2 años no importan', 'Je suis, tu étais, nous serons', 'Cracs', 'Thunder'","Reparto', 'Especialistas'",
+Thomas Didry,,"Dracula Reborn', 'Joséphine, ange gardien', 'Thunder', 'Le jour où tout a basculé'",Reparto',
+Alyssa Beckman,,"The Inside', 'Bizzarro Bill', 'Fragile Package', 'None'",Reparto',1
+Cristopher Boneta,,"24 Hour Dhivehi: Or How I Learned to Stop Worrying and Love the Maldives', 'Fragile Package', 'None', 'None'",Reparto',1
+Ray Kanye,,"Fragile Package', 'None', 'None', 'None'",Reparto',1
+Franklin Ricart,,"Guys at Parties Like It', 'Albanian Gangster II: Illyrian Blood', 'The Samaritans', 'Blink-182: Edging'","Dirección de fotografía y cámara', 'Cámara y electricidad', 'Reparto'",
+Corrine Spence,,"Fragile Package', 'Workers Con', 'None', 'None'",Reparto',
+Mateusz Wieclawek,1993,"El mundo en llamas', 'Konwój', 'Czuwaj', 'El correo de Varsovia'","Reparto', 'Dirección de la segunda unidad o asistencia a dirección', 'Cámara y electricidad'",
+Julia Wieniawa-Narkiewicz,1998,"Hater', 'Small World', 'Nadie duerme en el bosque esta noche', 'Small World'","Reparto', 'Música', 'Composición'",
+Zofia Wichlacz,1995,"Varsovia 1944', 'En la ciénaga', 'Winter of the Crow', 'Spoor (El rastro)'",Reparto',3
+Andrzej Grabowski,1952,"Pitbull', 'Superprodukcja', 'Dzien swira', 'Pitbull'","Reparto', 'Banda sonora'",3
+Lech Dyblik,1956,"Zemsta', 'Valley of the Gods', 'The Passing Bells', 'El extranjero'","Reparto', 'Banda sonora'",
+Michal Zbroja,,"Pitbull', 'Botoks', 'Nadie duerme en el bosque esta noche', '8 rzeczy, których nie wiecie o facetach'",Reparto',
+Sebastian Stankiewicz,1978,"Pan T.', 'Okna, okna', 'Atrapaalmas', 'Las plagas de Breslavia'","Reparto', 'Producción', 'Equipos adicionales'",1
+Robert Wabich,1967,"Ekstradycja', 'Ekstradycja 2', 'Wataha', 'Nadie duerme en el bosque esta noche'","Reparto', 'Banda sonora'",
+Izabela Dabrowska,1966,"Ida', 'Bosque adentro', 'Show', ""Rock'n'Roll Eddie""",Reparto',
+Wojciech Mecwaldowski,198,"Juliusz', '39 i pól', 'Dzien swira', 'Klangor'",Reparto',1
+Marni Russo,1987,"Mortal Kombat', '2:37', 'Vigilantes', 'Ribspreader'","Reparto', 'Especialistas', 'Equipos adicionales'",1
+Esther Michelsen,,"Last Lullaby', 'BreakAway', 'Assimilation', 'None'","Reparto', 'Equipos adicionales'",1
+Nic Betts,,"Last Lullaby', 'None', 'None', 'None'",Reparto',1
+Anna Duin,,"Last Lullaby', 'None', 'None', 'None'",Reparto',1
+Morven Brown,,"Tomorrow May Never Come', 'None', 'None', 'None'",Reparto',1
+Neil Collingham,,"Tomorrow May Never Come', 'None', 'None', 'None'","Reparto', 'Cámara y electricidad'",
+John Crooks,,"Why Would You?', 'Crimen más allá del paraíso', 'Paper Mountain', 'The Lark'","Cámara y electricidad', 'Dirección de fotografía y cámara', 'Dirección'",
+James Fox,1939,"Sherlock Holmes', 'Charlie y la fábrica de chocolate', 'Sexy Beast', 'Pasaje a la India'","Reparto', 'Banda sonora'",1
+Caitlin Hardie,,"Tomorrow May Never Come', 'None', 'None', 'None'",Reparto',1
+Dominique Mitchell,,"Sex Is a God Thing: The Series', 'None', 'None', 'None'",Reparto',1
+Katya Morrison,,"Tomorrow May Never Come', 'Wuthering Heights', 'Christmas Fears', 'Tingles'",Reparto',1
+Eoin Mullan,,"Tomorrow May Never Come', 'None', 'None', 'None'","Reparto', 'Guion'",1
+Abbie Robertson,,"Tomorrow May Never Come', 'Hannah', 'None', 'None'",Reparto',1
+Emma Strang,,"Tomorrow May Never Come', 'None', 'None', 'None'","Reparto', 'Vestuario', 'Maquillaje'",1
+Sanchari Dutta,,"Saga of a Nobody', 'None', 'None', 'None'",Reparto',1
+Paromita Mukherji,,"""The Wife's Letter"", 'Sampurna', 'None', 'None'",Reparto',1
+Diganta Nag,,"""The Wife's Letter"", 'None', 'None', 'None'",Reparto',1
+Kaushik Roy,,"Hasee Toh Phasee', 'Punglingo Strilingo', 'Dharmajuddha', 'Balijhor'",Reparto',
+Bryan Riel,,"Lost and Found', 'Love Handles', 'The Tauntfest', 'A Familiar Story'","Equipos adicionales', 'Reparto', 'Edición'",
+Peter Rothbart,,"None', 'None', 'None', 'None'",None,
+Emma DenBleyker,,"Lost and Found', 'None', 'None', 'None'",Reparto',
+Jacqueline Riel,,"Lost and Found', 'None', 'None', 'None'","Reparto', 'Cámara y electricidad'",
+Denise Ivanoff,,"Waiting in the Wings: Still Waiting', 'Airport 212', 'Trending', 'Plant'","Reparto', 'Dirección', 'Producción'",
+Ryan Leveille,,"The Emerson Channel Comedy Special', 'Camp Watchachoosits', 'Tenía buena pinta', 'Cruisers & Shakers'","Equipos adicionales', 'Producción', 'Edición'",
+Mike Sutton,,"La ciudad es nuestra', 'A Host of Sparrows', 'Valentine Bluffs', 'Rendezvous'","Reparto', 'Producción', 'Especialistas'",54
+Alexandra Tebano,,"Native Boy', 'Amando deprisa', 'None', 'None'","Reparto', 'Producción', 'Dirección de producción'",54
+Jeremy Adams,,"Sobrenatural', 'Mortal Kombat: La Leyenda de Scorpion', 'Teen Titans Go! Vs. Teen Titans', 'Lego Monkie Kid: A Hero Is Born'","Guion', 'Producción', 'Reparto'",
+Katherine Grant-Suttie,1988,"The Iago Epilogue', 'Arte mortal', 'Fallout 76: Steel Reign', 'BRASS: The Lair of the Red Widow'","Reparto', 'Edición', 'Producción'",
+Kate Kraay,,"""Charlie's Dilemma"", 'Lane 1974', 'Return to Seattle', 'Manchego!'",Reparto',
+Charles Leggett,,"Outside In', 'Delitos del pasado', 'F.E.A.R. 2: Project Origin', 'Forbidden Power'","Reparto', 'Dirección', 'Guion'",3
+Tadd Morgan,,"Mario Golf: World Tour', 'Mario & Sonic en los Juegos Olímpicos: Rio 216', 'Mario & Sonic en los Juegos Olímpicos de Invierno: Sochi 214', 'BRASS: The Lair of the Red Widow'",Reparto',
+Matthew Sondre Peterson,,"Brass Bolts: DollyMops & French Apaches', 'BRASS: The Kinesigraph', 'BRASS: The Lair of the Red Widow', 'Percy & Reggie and the Great Parisian Air Exposition'",Reparto',
+Andrea Dovner,,"Spoon River Anthology', 'None', 'None', 'None'",Reparto',
+Clara Dunham,,"The Cocktail Party', 'Spoon River Anthology', 'For Better', 'A Christmas Carol Radio Show'",Reparto',
+Michael Sean Erickson,1973,"Bleach', ""Bella's Story"", 'Chameleon', 'The Forgiven'","Reparto', 'Producción', 'Guion'",
+Stan Gray,,"Spoon River Anthology', 'None', 'None', 'None'",Reparto',
+Raquel Martin,,"Diet of Sex', 'None', 'None', 'None'",Reparto',
+Judy Newell,,"Spoon River Anthology', 'Incorruptible', 'None', 'None'",Reparto',
+Peggy Powell,,"Spoon River Anthology', 'Mizlansky Zilinsky or Schmucks', 'None', 'None'",Reparto',
+Bill Reiner,,"Spoon River Anthology', 'None', 'None', 'None'",Reparto',
+Rick Roberts,1965,"El hombre del año', 'Frecuencia macabra', 'Traders', 'An American in Canada'","Reparto', 'Guion', 'Arte'",2
+Henry Vermillion,,"The Cocktail Party', 'Spoon River Anthology', 'Mizlansky Zilinsky or Schmucks', 'A Christmas Carol Radio Show'","Reparto', 'Dirección'",2
+Joseph Darbe,,"Distorted Carcinoma', 'None', 'None', 'None'",Reparto',2
+Sydney Stoner,,"Distorted Carcinoma', 'None', 'None', 'None'",Reparto',2
+James Wood,1947,"Vampiros de John Carpenter', 'Hércules', 'Las vírgenes suicidas', 'Videodrome'","Reparto', 'Producción', 'Dirección'",21
+Hayden Tursky,,"Set Pickup', 'Expecting', 'Distorted Carcinoma', 'None'","Reparto', 'Guion y continuidad', 'Sonido'",21
+Elizabeth Boehler,,"Blood Tank', 'Chronicles of the Dead', 'The Zookeeper', 'Luv Bytz'","Reparto', 'Producción', 'Guion'",21
+Collin McDowell,,"Stuck in Traffick', 'Dissolution of Dreams', 'Luv Bytz', 'Damien Shadows, PI: Webisodes'","Edición', 'Edición', 'Producción'",2
+Vesta Millard,,"On Blood Moon', 'Marley', 'In the Cards', ""Wait, Wait, Don't Kill Me""","Reparto', 'Producción', 'Guion'",2
+Frank Moran,1887,"Los viajes de Sullivan', 'Battle of Broadway', 'No More Women', 'Double Cross'","Reparto', 'Equipos adicionales'",
+Anngeannette Pinkston,,"Keys', 'The Vagrant', 'American Wisper', 'Anadellia'","Reparto', 'Producción', 'Dirección'",5
+Robert Youngren,1959,"The Long Island Project', 'Marley', 'Ronald', 'Mr. Mullen'","Reparto', 'Producción', 'Guion'",
+Catherine Nastasi,,"Donna', 'Clean', 'Bronx SIU', 'The Diner'","Reparto', 'Producción'",3
+Violetta Anna Licari,,"Marley', 'Seri', 'Weekend of Recompense', 'Table Talk'","Reparto', 'Producción', 'Dirección'",3
+James Paitakis,,"Marley', 'None', 'None', 'None'",Reparto',3
+Donna Morales,,"FBI', 'Ellen Waits', ""Pepper's Science"", 'The Wizards Books: A Tale of Three Sisters'","Reparto', 'Producción', 'Localización'",
+Ivana Chýlková,1963,"Díky za kazdé nové ráno', 'Cas sluhu', 'Prítelkyne z domu smutku', 'Perfect Days - I zeny maji sve dny'","Reparto', 'Banda sonora'",2
+Ondrej Sokol,1971,"Krásno', 'Ordinace v ruzové zahrade', 'Perfect Days - I zeny maji sve dny', 'Nadrazí'","Reparto', 'Guion', 'Dirección'",
+Zuzana Bydzovská,1961,"Venkovský ucitel', 'Jan Palach', 'Gympl', 'Mamas & Papas'","Reparto', 'Banda sonora'",5
+Vojtech Kotek,1988,"Padesátka', 'Vlastníci', 'Ctrl Emotion', 'Ondrej Brzobohatý: And the Oscar Goes To'","Reparto', 'Dirección', 'Guion'",
+Zuzana Krónerová,1952,"Bába z ledu', 'Rudý kapitán', 'Divoké vcely', 'Muz se zajecima usima'","Reparto', 'Banda sonora'",6
+Bohumil Klepl,,"None', 'None', 'None', 'None'",None,6
+Jirí Zeman,,"Las últimas vacaciones', 'Hitler: El reinado del mal', 'Barbora Poláková: Vono', 'Barbora Poláková: Sami dva'","Reparto', 'Dirección'",
+Jan Vondrácek,1966,"Jan Palach', 'Ceské století', 'Matematika zlocinu', 'Teroristka'",Reparto',
+Martha Issová,1981,"Sedmero krkavcu', 'Deti noci', 'Buko', 'La casa de la esperanza'","Reparto', 'Guion', 'Banda sonora'",3
+Rebeka Lízlerová,,"Nevinnost', 'Perfect Days - I zeny maji sve dny', 'Prípady 1. oddelení', 'Radeji to vyzkousej nekde jinde'",Reparto',
+Stephen Graham,1973,"This Is England', 'Hierve', 'Snatch. Cerdos y diamantes', 'Piratas del Caribe: La venganza de Salazar'","Reparto', 'Producción', 'Guion'",14
+Seamus O'Neill,1952,"""Dead Man's Shoes"", 'War Horse (Caballo de batalla)', 'Wallace & Gromit: The Curse of the Were-Rabbit', 'Turistas'","Reparto', 'Especialistas'",1
+Hannah Walters,1974,"This Is England', 'Hierve', 'Piratas del Caribe: La venganza de Salazar', 'Whitechapel'","Reparto', 'Producción'",
+Molly Edmead,,"Gaslighting', 'None', 'None', 'None'",Reparto',
+Caroline Lennon,,"King Lear', 'King Lear: A Critical Guide', 'The Archers', ""London's Burning""",Reparto',
+Shantell Winsbury,,"Gaslighting', 'None', 'None', 'None'",Reparto',
+Millie Winsbury,,"Gaslighting', 'None', 'None', 'None'",Reparto',
+Reggie Beak,,"Gaslighting', 'None', 'None', 'None'",Reparto',
+Pat Garrett,,"None', 'None', 'None', 'None'","1973', '18', '2h 2min'",
+Lisa Payne,,"Ruby Blue', 'Donovan Slacks', 'My Mother', 'Gypo'",Reparto',
+Elizaveta Arzamasova,1995,"Pop', 'Dostoevskiy', 'Wolfhound, el guerrero', 'Papiny dochki'",Reparto',1
+Mitya Labush,,"August 8', 'Gorod tayn', 'The Idol', 'Otdamsya v khoroshie ruki'",Reparto',
+Irina Rozanova,1961,"Ankor, eshchyo ankor!', 'Dva dnya', 'Kolya - perekati pole', 'Dikarka'",Reparto',4
+Aleksandr Zelskiy,,"Zolotoy zapas', 'Mech', 'Morpekhi', 'Friday'",Reparto',4
+Aleksey Shevchenkov,1974,"Iuda', 'Blindazh', 'Vyzhivshie', 'Voroshilovskiy strelok'",Reparto',1
+Anatoliy Gushchin,,"Transilvania, el imperio prohibido', 'Exit', 'Gagarin: Pionero del espacio', 'Estrella: señal de socorro'",Reparto',1
+Tatyana Lyutaeva,1965,"Polnoe dykhanie', 'Mechenosets', 'Edinitsa Montevideo', 'Za posledney chertoy'","Reparto', 'Dirección', 'Guion'",1
+Artur Psakin,,"Rokovaya Istina', '72 chasa', 'Zayezzhiy molodets', 'None'","Reparto', 'Dirección'",1
+Anastasiya Korolkova,,"Noch na kordone', 'So dna vershiny', '72 chasa', 'Catalina'","Reparto', 'Localización', 'Dirección de la segunda unidad o asistencia a dirección'",1
+Nikolay Sakharov,,"Aquatilis', 'Dobroy nochi!', 'Autlo', 'Zitaru dzimta'",Reparto',
+Claudia de Vasco,,"Roman J. Israel, Esq.', 'Anatomía de Grey', 'Los 33: una historia de esperanza', 'S.W.A.T.: Los hombres de Harrelson'","Reparto', 'Equipos adicionales', 'Arte'",
+Michael Svoboda,,"A Wong Foo, ¡gracias por todo! Julie Newmar', 'Confession', 'Reply', 'Club de Cuervos'","Equipos adicionales', 'Guion', 'Producción'",
+Will Bigio,,"Pink Lemonade', 'None', 'None', 'None'",Reparto',
+Jordan Officer,,"Pink Lemonade', 'None', 'None', 'None'",Reparto',
+Audrey Shapiro,,"Sirens', 'Pink Lemonade', 'Charades', 'We Regret to Inform You'",Reparto',
+Vijay Chendoor,,"Karva', 'Dwimukha', 'Hitler', 'Bond Ravi'",Reparto',
+Chethan Durga,,"Khasagi Putagalu', 'Mrutyunjaya', 'Gajanana and gang', 'Sathya - S/O Harishchandra'",Reparto',
+Ashwin Hassan,,"ACT 1978', 'Kreem', 'Kaiva', 'Avane Srimannarayana'",Reparto',
+Vinay Krishnaswamy,,"Avane Srimannarayana', 'Aavarta', 'None', 'None'",Reparto',
+Shri Mahadev,,"Avalum naanum', 'Gajanana and gang', 'Iruvudellava Bittu', 'Padavi Poorva'",Reparto',
+Aditi Prabhudeva,1994,"Dhairyam', 'Chaos', 'Dilmaar', 'Mafia'",Reparto',
+Suchendra Prasad,,"Brahma', 'Kempe Gowda 2', 'Manasmita', 'Drama'",Reparto',
+Raaghu Raamanakoppa,,"Avane Srimannarayana', 'Shivaji Surathkal', 'Kirik Party', 'Shivaji Surathkal 2'",Reparto',
+Natya Ranga,,"Abhiramachandra', 'Yellow Gangs', 'Karmanye Vadhikaraste', 'Baang'",Reparto',
+Nagendra Shah,,"Mouni', 'Paaru', 'Jackson', 'Gajanana and gang'",Reparto',
+Esme Pellegrini,,"Midnight Taxi', 'The Nightingale', 'To Be A Woman', 'None'","Reparto', 'Casting'",
+April Spiers,,"The Nightingale', 'None', 'None', 'None'","Reparto', 'Casting'",
+Joshua Lyster,,"La dama del cielo', 'Gente de barrio', 'Izzy Bizu - Dumb', 'The Nightingale'","Reparto', 'Especialistas'",
+Stefan Boehm,,"Blue Lights', 'The Liberator', 'Lucky Man', 'La guerra de los Mundos: El ataque'","Reparto', 'Producción'",
+Sam Woodhams,,"Inside Edge', 'Fred', 'RED', 'Basur'","Reparto', 'Banda sonora'",
+Lorna Lowe,,"FBI: International', 'Cold Mind', 'Cleaner', 'Romeo: A Documentary Film by Lorna Lowe'","Reparto', 'Dirección', 'Dirección de fotografía y cámara'",
+Woinkpa,,"The Nightingale', 'None', 'None', 'None'",Reparto',
+Cindy Evans,,"Caperucita roja ¿A quién tienes miedo?', 'Morbius', 'Misteriosa obsesión', 'Atrapada'","Diseño de vestuario', 'Vestuario'",1
+Kieran E. Sims,,"616', 'Hearts & Minds', 'Caught Short', 'Infinity'",Reparto',
+Adja Gaye,,"Cost of Living', 'The Nightingale', 'None', 'None'",Reparto',
+Anuj Mishra,,"Lo que ignoramos', 'Hero of Nation Chandra Shekhar Azad', 'None', 'None'",Reparto',
+Amrit Pal,1941,"Border', 'Woh Kaun Thi', 'Yaar Gaddar', 'Dushmani: A Violent Love Story'","Reparto', 'Dirección'",
+Aparna Paranjape,,"Resham Dunkkk', 'Warning', 'Addiction', 'None'",Reparto',
