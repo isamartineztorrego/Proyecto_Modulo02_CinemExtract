@@ -1,0 +1,1297 @@
+@charset "UTF-8";
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html {
+  font-size: 1rem;
+  font-family: "Schibsted Grotesk", sans-serif;
+}
+
+.genially-social {
+  display: flex;
+  width: 100%;
+  flex-flow: column;
+}
+.genially-social .genially-social-container-genially {
+  z-index: 1;
+}
+.genially-social .genially-social-header {
+  z-index: 0;
+}
+.genially-social .genially-social-header.fixed {
+  z-index: 2;
+}
+.genially-social > section,
+.genially-social > footer {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.genially-social-container-genially.genially-horizontal, .genially-social-container-genially.genially-square {
+  height: calc(100vh - 4.125rem);
+  width: auto;
+}
+.genially-social-container-genially.genially-horizontal .container-wrapper-genially, .genially-social-container-genially.genially-square .container-wrapper-genially {
+  margin: 0 auto;
+  height: 100%;
+}
+.genially-social-container-genially.genially-horizontal .container-wrapper-genially .genially-embed,
+.genially-social-container-genially.genially-horizontal .container-wrapper-genially .genially-lightbox-modal, .genially-social-container-genially.genially-square .container-wrapper-genially .genially-embed,
+.genially-social-container-genially.genially-square .container-wrapper-genially .genially-lightbox-modal {
+  max-height: 100%;
+  min-height: 100%;
+}
+.genially-social-container-genially.genially-vertical .container-wrapper-genially {
+  min-height: 101vh;
+  margin: 0 auto;
+}
+.genially-social-container-genially.genially-vertical.container-wrapper-genially.is-zoomed {
+  max-width: 100% !important;
+}
+.genially-social-container-genially.header-fixed {
+  margin-bottom: 4.125rem;
+}
+
+.genially-social-wrapper {
+  width: 100%;
+  max-width: 76.505rem;
+}
+.genially-social-wrapper.footer {
+  padding: 4.5rem 1.5rem 2rem;
+}
+
+.genially-social-header {
+  background-color: #121212;
+  color: #f9f8fc;
+  padding: 0.6875rem 0;
+  box-shadow: 0 -0.125rem 0.8125rem 0 rgba(18, 18, 18, 0.3);
+  min-height: 4.125rem;
+}
+.genially-social-header > div {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+}
+.genially-social-header > div > div:first-child img {
+  opacity: 0;
+  transition: 0.2s;
+}
+.genially-social-header > div > div:nth-child(2) {
+  color: #121212;
+  font-family: "Schibsted Grotesk", sans-serif;
+  font-size: 1.125rem;
+  font-weight: 500;
+  line-height: 1.12;
+  color: #f9f8fc;
+  text-align: center;
+  margin-right: 1rem;
+}
+@media (max-width: 767px) {
+  .genially-social-header > div > div:nth-child(2) {
+    font-size: 1rem;
+    line-height: 1.12;
+  }
+}
+.genially-social-header > div .genially-social-logo {
+  position: absolute;
+  left: 1rem;
+}
+.genially-social-header > div .genially-social-logo img {
+  height: 2.0625rem;
+  display: block;
+}
+.genially-social-header.fixed {
+  position: fixed;
+  width: 100%;
+  background-image: none;
+}
+.genially-social-header.fixed > div > div:first-child img {
+  opacity: 1;
+}
+.genially-social-header.fixedBottom {
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+}
+
+.genially-social-btn-primary {
+  color: #121212;
+  font-family: "Schibsted Grotesk", sans-serif;
+  border-radius: 1.5rem;
+  position: relative;
+  border: 0;
+  padding: 0 1.5rem;
+  background: #6c29ff;
+  color: #f9f8fc;
+  height: 2rem;
+  width: auto;
+  font-size: 0.938rem;
+  line-height: 1.29;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.2s ease-in-out;
+  text-transform: upperCase;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: nowrap;
+  flex-direction: row;
+}
+.genially-social-btn-primary:hover {
+  background: #4300d6;
+}
+.genially-social-btn-primary.bold {
+  font-weight: bold;
+}
+.genially-social-btn-primary.bigger {
+  text-transform: none;
+  height: 44px;
+  padding: 0 1.5rem;
+  font-size: 1.125rem;
+  display: inline-block;
+}
+
+.avatar, .workspaceAvatar {
+  width: 2.75rem;
+  height: 2.75rem;
+  border-radius: 50%;
+  padding: 0.275rem;
+  background-size: cover;
+  background-position: 50%;
+}
+
+.workspaceAvatar {
+  border-radius: 8px;
+}
+
+.genially-social-info {
+  background: white;
+}
+.genially-social-info .genially-social-wrapper {
+  display: flex;
+  padding: 2.75rem 0;
+}
+.genially-social-info .genially-social-wrapper .genially-social-details {
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  flex-wrap: wrap;
+  width: 100%;
+}
+.genially-social-info .genially-social-wrapper .genially-social-details > div {
+  flex-basis: 75%;
+}
+.genially-social-info .genially-social-wrapper .genially-social-details > div:nth-child(even) {
+  flex-basis: 25%;
+}
+.genially-social-info .genially-social-wrapper .genially-social-details .genially-social-user-info {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: flex-start;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+}
+.genially-social-info .genially-social-wrapper .genially-social-details .genially-social-user-info h1 {
+  color: #121212;
+  font-family: "Schibsted Grotesk", sans-serif;
+  font-size: 3rem;
+  font-weight: 900;
+  line-height: 1.17;
+  margin-bottom: 1.5rem;
+}
+@media (max-width: 767px) {
+  .genially-social-info .genially-social-wrapper .genially-social-details .genially-social-user-info h1 {
+    font-size: 1.75rem;
+    line-height: 1.14;
+  }
+}
+.genially-social-info .genially-social-wrapper .genially-social-details .genially-social-user-info .genially-social-user-data {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: center;
+}
+.genially-social-info .genially-social-wrapper .genially-social-details .genially-social-user-info .genially-social-user-data .genially-social-user-more-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  margin-left: 1.03125rem;
+}
+.genially-social-info .genially-social-wrapper .genially-social-details .genially-social-user-info .genially-social-author {
+  color: #121212;
+  font-family: "Schibsted Grotesk", sans-serif;
+  font-size: 0.875rem;
+  font-weight: 500;
+  line-height: 1.29;
+  color: #393645;
+  margin-bottom: 0.25rem;
+}
+@media (max-width: 767px) {
+  .genially-social-info .genially-social-wrapper .genially-social-details .genially-social-user-info .genially-social-author {
+    font-size: 1rem;
+    line-height: 1.12;
+  }
+}
+.genially-social-info .genially-social-wrapper .genially-social-details .genially-social-user-info .genially-social-creation {
+  color: #121212;
+  font-family: "Schibsted Grotesk", sans-serif;
+  font-size: 0.75rem;
+  font-weight: 500;
+  line-height: 1.33;
+  color: #393645;
+}
+@media (max-width: 767px) {
+  .genially-social-info .genially-social-wrapper .genially-social-details .genially-social-user-info .genially-social-creation {
+    font-size: 0.875rem;
+    line-height: 1.27;
+  }
+}
+.genially-social-info .genially-social-wrapper .genially-social-details .genially-social-genially-details {
+  flex-basis: 100%;
+  margin-top: 1.03125rem;
+}
+.genially-social-info .genially-social-wrapper .genially-social-details .genially-social-genially-details .genially-social-genially-description {
+  color: #121212;
+  font-family: "Schibsted Grotesk", sans-serif;
+  font-size: 0.875rem;
+  font-weight: 500;
+  line-height: 1.29;
+  color: #393645;
+  max-width: 26.125rem;
+}
+@media (max-width: 767px) {
+  .genially-social-info .genially-social-wrapper .genially-social-details .genially-social-genially-details .genially-social-genially-description {
+    font-size: 1rem;
+    line-height: 1.12;
+  }
+}
+.genially-social-info .genially-social-wrapper .genially-social-stats {
+  padding-top: 1.5rem;
+}
+.genially-social-info .genially-social-wrapper .genially-social-stats {
+  flex-basis: 25%;
+  box-sizing: border-box;
+}
+.genially-social-info .genially-social-wrapper .genially-social-stats .genially-social-stat {
+  width: 100%;
+  margin-bottom: 1.03125rem;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.genially-social-info .genially-social-wrapper .genially-social-stats .genially-social-stat svg {
+  fill: #393645;
+  vertical-align: middle;
+  width: 1.375rem;
+  height: 1.375rem;
+}
+.genially-social-info .genially-social-wrapper .genially-social-stats .genially-social-stat span,
+.genially-social-info .genially-social-wrapper .genially-social-stats .genially-social-stat a {
+  vertical-align: middle;
+  font-size: 1.125rem;
+  color: #393645;
+  font-weight: 500;
+  margin-left: 1.375rem;
+}
+.genially-social-info .genially-social-wrapper .genially-social-stats .genially-social-stat a {
+  font-size: 0.8125rem;
+  text-decoration: underline;
+}
+.genially-social-info .genially-social-wrapper .genially-social-stats .genially-social-report .genially-social-link-contact {
+  color: #121212;
+  font-family: "Schibsted Grotesk", sans-serif;
+  font-size: 0.875rem;
+  font-weight: 500;
+  line-height: 1.29;
+  color: #393645;
+}
+@media (max-width: 767px) {
+  .genially-social-info .genially-social-wrapper .genially-social-stats .genially-social-report .genially-social-link-contact {
+    font-size: 1rem;
+    line-height: 1.12;
+  }
+}
+.genially-social-info .genially-social-wrapper .genially-social-stats .genially-social-report a {
+  transition: 0.2s;
+  margin-left: 0.34375rem;
+}
+.genially-social-info .genially-social-wrapper .genially-social-stats .genially-social-report svg {
+  width: 1.03125rem;
+  margin: 0 0.171875rem;
+  transition: 0.2s;
+}
+.genially-social-info .genially-social-wrapper .genially-social-stats .genially-social-report:hover a {
+  color: #121212;
+}
+.genially-social-info .genially-social-wrapper .genially-social-stats .genially-social-report:hover svg {
+  fill: #121212 !important;
+}
+
+.genially-social-inspiration {
+  background: white;
+  padding: 0 2.75rem;
+}
+.genially-social-inspiration .genially-social-wrapper {
+  padding: 2.75rem 0;
+}
+.genially-social-inspiration h2 {
+  color: #121212;
+  font-family: "Schibsted Grotesk", sans-serif;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.16;
+  margin-bottom: 2.75rem;
+}
+@media (max-width: 767px) {
+  .genially-social-inspiration h2 {
+    font-size: 1.5rem;
+    line-height: 1.16;
+  }
+}
+.genially-social-inspiration .genially-social-geniallys {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-right: -1.375rem;
+}
+.genially-social-inspiration .genially-social-geniallys.no-inspirations {
+  justify-content: center;
+}
+.genially-social-inspiration .genially-social-geniallys .genially-social-one-genially-container {
+  padding-right: 1.375rem;
+  margin-bottom: 1.375rem;
+}
+.genially-social-inspiration .genially-social-geniallys .genially-social-one-genially-container .genially-social-one-genially {
+  overflow: hidden;
+  position: relative;
+  border-radius: 0.5rem;
+  box-shadow: 0 1px 0.25rem 0 #121212 0.2;
+  transition: all 0.2s ease-in-out;
+  height: 11.25rem;
+  width: 14.5rem;
+  display: flex;
+  flex-direction: column;
+}
+.genially-social-inspiration .genially-social-geniallys .genially-social-one-genially-container .genially-social-one-genially:hover {
+  box-shadow: 0 1px 0.5rem 0 #121212 0.3;
+}
+.genially-social-inspiration .genially-social-geniallys .genially-social-one-genially-container .genially-social-one-genially .genially-social-genially-info {
+  width: 100%;
+  background-color: white;
+  border-bottom-left-radius: 0.5rem;
+  border-bottom-right-radius: 0.5rem;
+  padding-left: 0.625rem;
+  padding-right: 0.625rem;
+  padding-bottom: 0.625rem;
+  max-width: 13rem;
+  flex: 0 1 3.25rem;
+}
+.genially-social-inspiration .genially-social-geniallys .genially-social-one-genially-container .genially-social-one-genially .genially-social-genially-info h3 {
+  color: #121212;
+  font-family: "Schibsted Grotesk", sans-serif;
+  font-size: 0.938rem;
+  font-weight: 600;
+  line-height: 1.33;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  word-wrap: break-word;
+  white-space: nowrap;
+  margin-top: 0.5rem;
+}
+@media (max-width: 767px) {
+  .genially-social-inspiration .genially-social-geniallys .genially-social-one-genially-container .genially-social-one-genially .genially-social-genially-info h3 {
+    font-size: 0.938rem;
+    line-height: 1.33;
+  }
+}
+.genially-social-inspiration .genially-social-geniallys .genially-social-one-genially-container .genially-social-one-genially .genially-social-genially-info p {
+  color: #121212;
+  font-family: "Schibsted Grotesk", sans-serif;
+  font-size: 0.75rem;
+  font-weight: 500;
+  line-height: 1.33;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  word-wrap: break-word;
+  white-space: nowrap;
+  color: #393645;
+}
+@media (max-width: 767px) {
+  .genially-social-inspiration .genially-social-geniallys .genially-social-one-genially-container .genially-social-one-genially .genially-social-genially-info p {
+    font-size: 0.875rem;
+    line-height: 1.27;
+  }
+}
+.genially-social-inspiration .genially-social-geniallys .genially-social-one-genially-container .genially-social-one-genially:last-child {
+  margin-right: 0;
+}
+.genially-social-inspiration .genially-social-geniallys .genially-social-one-genially-container .genially-social-one-genially > a {
+  width: 100%;
+  height: 100%;
+  max-width: 100%;
+  max-height: 100%;
+  flex: 1;
+  overflow: hidden;
+}
+.genially-social-inspiration .genially-social-geniallys .genially-social-one-genially-container .genially-social-one-genially .miniature,
+.genially-social-inspiration .genially-social-geniallys .genially-social-one-genially-container .genially-social-one-genially .genially-social-discover {
+  width: 100%;
+  height: 0;
+  background-position: center;
+  background-size: cover;
+  display: -ms-flexbox;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  overflow: hidden;
+  background-repeat: no-repeat;
+  position: relative;
+}
+.genially-social-inspiration .genially-social-geniallys .genially-social-one-genially-container .genially-social-one-genially .miniature .genially-social-fade-miniature,
+.genially-social-inspiration .genially-social-geniallys .genially-social-one-genially-container .genially-social-one-genially .genially-social-discover .genially-social-fade-miniature {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(18, 18, 18, 0.3);
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  opacity: 0;
+  transition: opacity 0.2s cubic-bezier(0, 0.73, 1, 1);
+  padding-top: 3rem;
+}
+.genially-social-inspiration .genially-social-geniallys .genially-social-one-genially-container .genially-social-one-genially .miniature .genially-social-fade-miniature .genially-social-show-button-with-icon,
+.genially-social-inspiration .genially-social-geniallys .genially-social-one-genially-container .genially-social-one-genially .genially-social-discover .genially-social-fade-miniature .genially-social-show-button-with-icon {
+  color: #121212;
+  font-family: "Schibsted Grotesk", sans-serif;
+  border-radius: 1.5rem;
+  position: relative;
+  border: 0;
+  padding: calc(0.5rem - 1px) 0.5rem calc(0.5rem - 1px) 0.5rem;
+  background: white;
+  height: 2rem;
+  width: 12rem;
+  font-size: 0.875rem;
+  line-height: 1.29;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.2s ease-in-out;
+  text-transform: upperCase;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: auto;
+}
+.genially-social-inspiration .genially-social-geniallys .genially-social-one-genially-container .genially-social-one-genially .miniature .genially-social-fade-miniature .genially-social-show-button-with-icon:hover,
+.genially-social-inspiration .genially-social-geniallys .genially-social-one-genially-container .genially-social-one-genially .genially-social-discover .genially-social-fade-miniature .genially-social-show-button-with-icon:hover {
+  background: #e8e6f0;
+}
+.genially-social-inspiration .genially-social-geniallys .genially-social-one-genially-container .genially-social-one-genially .miniature .genially-social-fade-miniature .genially-social-show-button-with-icon svg,
+.genially-social-inspiration .genially-social-geniallys .genially-social-one-genially-container .genially-social-one-genially .genially-social-discover .genially-social-fade-miniature .genially-social-show-button-with-icon svg {
+  fill: #121212;
+}
+.genially-social-inspiration .genially-social-geniallys .genially-social-one-genially-container .genially-social-one-genially .miniature .genially-social-fade-miniature .genially-social-show-button-with-icon svg,
+.genially-social-inspiration .genially-social-geniallys .genially-social-one-genially-container .genially-social-one-genially .genially-social-discover .genially-social-fade-miniature .genially-social-show-button-with-icon svg {
+  width: 1rem;
+  height: 1rem;
+  margin-right: 0.5rem;
+}
+.genially-social-inspiration .genially-social-geniallys .genially-social-one-genially-container .genially-social-one-genially .miniature:hover .genially-social-fade-miniature,
+.genially-social-inspiration .genially-social-geniallys .genially-social-one-genially-container .genially-social-one-genially .genially-social-discover:hover .genially-social-fade-miniature {
+  opacity: 1;
+}
+.genially-social-inspiration .genially-social-geniallys .genially-social-one-genially-container .genially-social-one-genially .miniature .link-call-to-action,
+.genially-social-inspiration .genially-social-geniallys .genially-social-one-genially-container .genially-social-one-genially .genially-social-discover .link-call-to-action {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  max-width: 100%;
+  max-height: 100%;
+  color: white;
+}
+.genially-social-inspiration .genially-social-geniallys .genially-social-one-genially-container .genially-social-one-genially .miniature .link-call-to-action p,
+.genially-social-inspiration .genially-social-geniallys .genially-social-one-genially-container .genially-social-one-genially .genially-social-discover .link-call-to-action p {
+  max-width: 168px;
+}
+.genially-social-inspiration .genially-social-geniallys .genially-social-one-genially-container .genially-social-one-genially .miniature .link-call-to-action .genially-social-show-button,
+.genially-social-inspiration .genially-social-geniallys .genially-social-one-genially-container .genially-social-one-genially .genially-social-discover .link-call-to-action .genially-social-show-button {
+  width: 2.75rem;
+  height: 2.75rem;
+  background: #6c29ff;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 0.6875rem;
+  transition: background 0.2s ease-in-out;
+}
+.genially-social-inspiration .genially-social-geniallys .genially-social-one-genially-container .genially-social-one-genially .miniature .link-call-to-action .genially-social-show-button:hover,
+.genially-social-inspiration .genially-social-geniallys .genially-social-one-genially-container .genially-social-one-genially .genially-social-discover .link-call-to-action .genially-social-show-button:hover {
+  background: #4300d6;
+}
+.genially-social-inspiration .genially-social-geniallys .genially-social-one-genially-container .genially-social-one-genially .miniature .link-call-to-action .genially-social-show-button svg,
+.genially-social-inspiration .genially-social-geniallys .genially-social-one-genially-container .genially-social-one-genially .genially-social-discover .link-call-to-action .genially-social-show-button svg {
+  width: 1.375rem;
+  height: 1.03125rem;
+  fill: #f9f8fc;
+}
+.genially-social-inspiration .genially-social-geniallys .genially-social-one-genially-container .genially-social-one-genially .miniature .link-call-to-action p,
+.genially-social-inspiration .genially-social-geniallys .genially-social-one-genially-container .genially-social-one-genially .genially-social-discover .link-call-to-action p {
+  color: #121212;
+  font-family: "Schibsted Grotesk", sans-serif;
+  font-size: 0.875rem;
+  font-weight: 500;
+  line-height: 1.29;
+  color: #393645;
+  text-align: center;
+}
+@media (max-width: 767px) {
+  .genially-social-inspiration .genially-social-geniallys .genially-social-one-genially-container .genially-social-one-genially .miniature .link-call-to-action p,
+.genially-social-inspiration .genially-social-geniallys .genially-social-one-genially-container .genially-social-one-genially .genially-social-discover .link-call-to-action p {
+    font-size: 1rem;
+    line-height: 1.12;
+  }
+}
+.genially-social-inspiration .genially-social-geniallys .genially-social-one-genially-container .genially-social-one-genially .genially-social-discover {
+  background-color: #f9f8fc;
+  height: 100%;
+}
+
+.genially-social-transcriptions {
+  background: #f9f8fc;
+}
+.genially-social-transcriptions h3,
+.genially-social-transcriptions h4,
+.genially-social-transcriptions h5,
+.genially-social-transcriptions p {
+  font-weight: 100;
+  font-size: 14px;
+}
+.genially-social-transcriptions .genially-social-wrapper {
+  padding-top: 2rem;
+}
+.genially-social-transcriptions .genially-social-wrapper .genially-social-tittle-transcriptions {
+  color: #121212;
+  font-family: "Schibsted Grotesk", sans-serif;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.12;
+  margin-bottom: 2rem;
+  cursor: pointer;
+}
+@media (max-width: 767px) {
+  .genially-social-transcriptions .genially-social-wrapper .genially-social-tittle-transcriptions {
+    font-size: 1.125rem;
+    line-height: 1.12;
+  }
+}
+.genially-social-transcriptions .genially-social-wrapper .genially-social-tittle-transcriptions svg {
+  width: 1.375rem;
+  height: 1.03125rem;
+  transition: 0.2s transform ease-in-out;
+}
+.genially-social-transcriptions .genially-social-wrapper .genially-social-tittle-transcriptions.open svg {
+  transform: rotate(180deg);
+}
+.genially-social-transcriptions .genially-social-wrapper .genially-social-texts-transcriptions-wrapper {
+  overflow: hidden;
+  transition: 0.2s;
+  padding-bottom: 4.125rem;
+}
+.genially-social-transcriptions .genially-social-wrapper .genially-social-texts-transcriptions-wrapper.close {
+  max-height: 0 !important;
+  padding-bottom: 0;
+}
+.genially-social-transcriptions .genially-social-wrapper .genially-social-texts-transcriptions-wrapper .genially-social-texts-transcriptions {
+  color: #121212;
+  font-family: "Schibsted Grotesk", sans-serif;
+  font-size: 0.875rem;
+  font-weight: 500;
+  line-height: 1.29;
+  column-count: 3;
+  color: #393645;
+  word-wrap: break-word;
+}
+@media (max-width: 767px) {
+  .genially-social-transcriptions .genially-social-wrapper .genially-social-texts-transcriptions-wrapper .genially-social-texts-transcriptions {
+    font-size: 1rem;
+    line-height: 1.12;
+  }
+}
+
+.genially-social-footer {
+  background-color: #121212;
+  line-height: 1.69;
+  color: #f9f8fc;
+}
+.genially-social-footer ol,
+.genially-social-footer ul {
+  list-style: none outside none;
+}
+.genially-social-footer .genially-social-top-footer {
+  display: flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  margin: 0 auto;
+  max-width: 83.3333333333%;
+}
+.genially-social-footer .genially-social-top-footer .genially-social-column {
+  flex: 1;
+  margin-right: 1.375rem;
+}
+.genially-social-footer .genially-social-top-footer .genially-social-column p {
+  max-width: 90%;
+}
+.genially-social-footer .genially-social-top-footer .genially-social-column p,
+.genially-social-footer .genially-social-top-footer .genially-social-column a {
+  color: #121212;
+  font-family: "Schibsted Grotesk", sans-serif;
+  font-size: 0.875rem;
+  font-weight: 500;
+  line-height: 1.29;
+  color: #f9f8fc;
+}
+@media (max-width: 767px) {
+  .genially-social-footer .genially-social-top-footer .genially-social-column p,
+.genially-social-footer .genially-social-top-footer .genially-social-column a {
+    font-size: 1rem;
+    line-height: 1.12;
+  }
+}
+.genially-social-footer .genially-social-top-footer .genially-social-column:last-child {
+  margin-right: 0;
+}
+.genially-social-footer .genially-social-top-footer .genially-social-column .genially-social-logo-reverse {
+  height: 2.75rem;
+  display: block;
+}
+.genially-social-footer .genially-social-top-footer .genially-social-column .genially-social-logo-reverse {
+  margin-bottom: 0.6875rem;
+}
+.genially-social-footer .genially-social-top-footer .genially-social-column .genially-social-title-footer {
+  color: #121212;
+  font-family: "Schibsted Grotesk", sans-serif;
+  font-size: 1.125rem;
+  font-weight: 500;
+  line-height: 1.12;
+  line-height: 1.5rem;
+  font-weight: 700;
+  color: #f9f8fc;
+}
+@media (max-width: 767px) {
+  .genially-social-footer .genially-social-top-footer .genially-social-column .genially-social-title-footer {
+    font-size: 1rem;
+    line-height: 1.12;
+  }
+}
+.genially-social-footer .genially-social-top-footer .genially-social-column .genially-social-follow-me {
+  margin-top: 2.0625rem;
+}
+.genially-social-footer .genially-social-top-footer .genially-social-column .genially-social-footer-menu {
+  display: flex;
+  flex-direction: column;
+  margin-top: 0.75rem;
+}
+.genially-social-footer .genially-social-top-footer .genially-social-column .genially-social-footer-menu a {
+  display: block;
+  font-size: 0.9375rem;
+  line-height: 1.5rem;
+}
+.genially-social-footer .genially-social-top-footer .genially-social-column .genially-social-footer-menu li + li {
+  margin-top: 0.25rem;
+}
+.genially-social-footer .genially-social-languages {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+.genially-social-footer .genially-social-languages .genially-social-language {
+  padding-right: 1rem;
+  margin-right: 1rem;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.genially-social-footer .genially-social-languages .genially-social-language::before {
+  content: "";
+  background-color: white;
+  height: 12px;
+  position: absolute;
+  width: 1px;
+  right: 0;
+  margin: auto 0;
+}
+.genially-social-footer .genially-social-languages .genially-social-language:last-child {
+  padding-right: 0;
+  margin-right: 0;
+}
+.genially-social-footer .genially-social-languages .genially-social-language:last-child::before {
+  content: none;
+}
+.genially-social-footer .genially-social-languages .genially-social-language > a {
+  font-size: 12px;
+  line-height: 16px;
+}
+.genially-social-footer .genially-social-claim-footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 6rem 0;
+}
+.genially-social-footer .genially-social-claim-footer .genially-social-claim-title-footer {
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 32px;
+}
+.genially-social-footer .genially-social-claim-footer a {
+  margin-left: 2.5rem;
+}
+.genially-social-footer .genially-social-footer-before-divider {
+  margin-bottom: 0.75rem;
+  flex-direction: row-reverse;
+  display: flex;
+  justify-content: space-between;
+}
+.genially-social-footer .genially-social-footer-social-networks {
+  display: flex;
+  flex-direction: row;
+}
+.genially-social-footer .genially-social-footer-social-networks .genially-social-footer-social-network {
+  padding: 0 0.5rem;
+  height: 24px;
+}
+.genially-social-footer .genially-social-footer-social-networks .genially-social-footer-social-network:first-child {
+  padding-left: 0;
+}
+.genially-social-footer .genially-social-footer-social-networks .genially-social-footer-social-network:last-child {
+  padding-right: 0;
+}
+.genially-social-footer .genially-social-bottom-footer {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  flex-direction: row-reverse;
+  width: 100%;
+  border-top: 1px solid white;
+  padding-top: 1.5rem;
+}
+.genially-social-footer .genially-social-bottom-footer a {
+  font-size: 0.8rem;
+  margin: 0 0.6875rem;
+}
+.genially-social-footer .genially-social-bottom-footer > div {
+  text-align: center;
+}
+.genially-social-footer .genially-social-bottom-footer > div:last-child {
+  text-align: center;
+}
+.genially-social-footer .genially-social-bottom-footer > div:last-child img {
+  max-width: 6.8125rem;
+  height: auto;
+}
+.genially-social-footer .genially-social-legals ul {
+  display: flex;
+  flex-direction: row;
+}
+.genially-social-footer .genially-social-legals .genially-social-legal-item {
+  font-size: 12px;
+  font-weight: 400;
+}
+.genially-social-footer .genially-social-legals .genially-social-legal-item--highlight {
+  font-weight: 700;
+}
+.genially-social-footer .genially-social-copyright {
+  display: flex;
+  align-items: center;
+}
+.genially-social-footer .genially-social-copyright p {
+  font-size: 12px;
+}
+
+@media (max-width: 960px) {
+  /* -960px */
+  .genially-social-header > div > div:nth-child(2) {
+    flex-basis: 41.6666666667%;
+    box-sizing: border-box;
+    font-size: 1rem;
+  }
+  .genially-social-header > div > div.genially-social-img-banner img {
+    display: block;
+    max-width: 10.3125rem;
+  }
+}
+@media (max-width: 1024px) {
+  /* -1024px */
+  .genially-social-wrapper,
+.genially-social-info .genially-social-wrapper,
+.genially-social-transcriptions .genially-social-wrapper {
+    padding-left: 2.75rem;
+    padding-right: 2.75rem;
+    max-width: 100%;
+  }
+}
+@media (max-width: 768px) {
+  /* -768px */
+  .genially-social-info .genially-social-wrapper .genially-social-details > div {
+    flex-basis: 60%;
+  }
+  .genially-social-info .genially-social-wrapper .genially-social-details > div:nth-child(even) {
+    flex-basis: 40%;
+  }
+
+  .genially-social-inspiration .genially-social-geniallys {
+    flex-wrap: wrap;
+  }
+  .genially-social-inspiration .genially-social-geniallys .genially-social-one-genially {
+    margin-bottom: 1.375rem;
+    flex-basis: 40%;
+    box-sizing: border-box;
+  }
+  .genially-social-inspiration .genially-social-geniallys .genially-social-one-genially:nth-child(2) {
+    margin-right: 0;
+  }
+
+  .genially-social-transcriptions .genially-social-wrapper .genially-social-texts-transcriptions {
+    column-count: 1 !important;
+  }
+
+  .genially-social-footer .genially-social-wrapper {
+    padding: 2.5rem 1.5rem;
+  }
+  .genially-social-footer .genially-social-footer-brand {
+    width: 3.5rem;
+    height: 3.5rem;
+  }
+  .genially-social-footer .genially-social-top-footer {
+    flex-wrap: wrap;
+    margin: 0;
+  }
+  .genially-social-footer .genially-social-top-footer .genially-social-column {
+    flex-basis: 100%;
+    box-sizing: border-box;
+    margin-right: 0;
+  }
+  .genially-social-footer .genially-social-top-footer .genially-social-column + .genially-social-column {
+    margin-top: 2rem;
+  }
+  .genially-social-footer .genially-social-claim-footer {
+    flex-direction: column;
+    margin: 3.5rem 0;
+  }
+  .genially-social-footer .genially-social-claim-footer a {
+    width: 100%;
+    margin-left: 0;
+    margin-top: 1.5rem;
+  }
+  .genially-social-footer .genially-social-claim-footer button {
+    width: 100%;
+  }
+  .genially-social-footer .genially-social-footer-before-divider {
+    flex-direction: column;
+    margin-bottom: 1.5rem;
+  }
+  .genially-social-footer .genially-social-footer-before-divider div {
+    display: flex;
+    justify-content: center;
+  }
+  .genially-social-footer .genially-social-footer-before-divider div:last-child {
+    margin-top: 2rem;
+  }
+  .genially-social-footer .genially-social-bottom-footer {
+    flex-direction: column;
+  }
+  .genially-social-footer .genially-social-bottom-footer .genially-social-legals {
+    display: flex;
+    justify-content: center;
+  }
+  .genially-social-footer .genially-social-bottom-footer .genially-social-bottom-footer-empty {
+    margin-top: 1.5rem;
+  }
+}
+@media (max-width: 640px) {
+  /* -640px */
+  .genially-social-header {
+    background-size: cover;
+    padding: 0.6875rem 0;
+  }
+  .genially-social-header > div > div {
+    flex-basis: 41.6666666667%;
+    box-sizing: border-box;
+  }
+  .genially-social-header > div > div:nth-child(2), .genially-social-header > div > div:first-child {
+    display: none;
+  }
+  .genially-social-header > div > div.genially-social-header-cta {
+    flex-basis: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .genially-social-header > div > div.genially-social-header-cta .genially-social-btn-primary {
+    line-height: 1;
+  }
+
+  .genially-social-info .genially-social-wrapper {
+    flex-wrap: wrap;
+  }
+  .genially-social-info .genially-social-wrapper .genially-social-details {
+    padding-bottom: 1.375rem;
+    margin-bottom: 0;
+    border-bottom: 0.0625rem solid #c7c3d3;
+  }
+  .genially-social-info .genially-social-wrapper .genially-social-stats {
+    padding-left: 0;
+    justify-content: flex-start;
+  }
+  .genially-social-info .genially-social-wrapper .genially-social-stats .genially-social-stat {
+    justify-content: flex-start;
+  }
+  .genially-social-info .genially-social-wrapper .genially-social-details,
+.genially-social-info .genially-social-wrapper .genially-social-stats {
+    flex-basis: 100%;
+    box-sizing: border-box;
+  }
+
+  .genially-social-banner > div {
+    flex-wrap: wrap;
+  }
+  .genially-social-banner > div > div {
+    flex-basis: 100%;
+    box-sizing: border-box;
+    text-align: center;
+  }
+  .genially-social-banner > div > div:first-child {
+    order: 3;
+  }
+  .genially-social-banner > div > div:first-child img {
+    margin: 0 auto;
+  }
+  .genially-social-banner > div > div:nth-child(2) {
+    flex-basis: 100%;
+    box-sizing: border-box;
+    max-width: 100%;
+    order: 1;
+  }
+  .genially-social-banner > div > div:last-child {
+    order: 2;
+  }
+  .genially-social-banner > div > div:last-child .btn {
+    max-width: 10.3125rem;
+    margin: 1.375rem auto;
+  }
+}
+@media (min-width: 750px) and (max-width: 960px) {
+  .genially-social-info .genially-social-wrapper .genially-social-details .genially-social-stats .genially-social-view-reusable {
+    font-size: 0.75rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+  }
+
+  .genially-social-container-genially.genially-horizontal.genially-exclusive, .genially-social-container-genially.genially-square.genially-exclusive {
+    height: 100vh !important;
+    height: 100dvh !important;
+  }
+}
+@media (max-width: 600px) {
+  .genially-social-inspiration .genially-social-geniallys .genially-social-one-genially {
+    flex-basis: 100%;
+    box-sizing: border-box;
+    margin-right: 0;
+    height: 100% !important;
+    width: 100% !important;
+  }
+
+  /* Nueva posición */
+  .genially-social-container-genially.genially-horizontal, .genially-social-container-genially.genially-square {
+    height: 100vw !important;
+  }
+  .genially-social-container-genially.genially-horizontal.genially-exclusive, .genially-social-container-genially.genially-square.genially-exclusive {
+    height: 100vh !important;
+    height: 100dvh !important;
+  }
+
+  .genially-social-wrapper {
+    padding: 1.375rem !important;
+  }
+
+  .genially-social-header > div {
+    padding: 0 1rem !important;
+  }
+  .genially-social-header > div .genially-social-header-cta {
+    flex-basis: 50%;
+  }
+  .genially-social-header > div .genially-social-header-cta .btn {
+    font-size: 0.6875rem;
+  }
+  .genially-social-header > div .genially-social-logo {
+    flex-basis: 40%;
+  }
+  .genially-social-header > div .genially-social-logo img {
+    max-height: 2.75rem;
+    max-width: 100%;
+    height: auto;
+  }
+
+  .genially-social-info .genially-social-wrapper .genially-social-details {
+    align-items: flex-start;
+    justify-content: space-between;
+  }
+  .genially-social-info .genially-social-wrapper .genially-social-details > div {
+    flex-basis: 100%;
+  }
+  .genially-social-info .genially-social-wrapper .genially-social-details > div:nth-child(1) {
+    flex-basis: auto;
+    max-width: 70%;
+  }
+  .genially-social-info .genially-social-wrapper .genially-social-details > div:nth-child(2) {
+    flex-basis: auto;
+  }
+  .genially-social-info .genially-social-wrapper .genially-social-details > div.genially-social-genially-details .genially-social-genially-description {
+    font-size: 0.6875rem;
+  }
+  .genially-social-info .genially-social-wrapper .genially-social-details .genially-social-user-info h1 {
+    color: #121212;
+    font-family: "Schibsted Grotesk", sans-serif;
+    font-size: 3rem;
+    font-weight: 900;
+    line-height: 1.17;
+  }
+}
+@media (max-width: 600px) and (max-width: 767px) {
+  .genially-social-info .genially-social-wrapper .genially-social-details .genially-social-user-info h1 {
+    font-size: 1.75rem;
+    line-height: 1.14;
+  }
+}
+@media (max-width: 600px) {
+  .genially-social-info .genially-social-wrapper .genially-social-details .genially-social-user-info .genially-social-user-more-info {
+    margin-left: 0.6875rem !important;
+  }
+  .genially-social-info .genially-social-wrapper .genially-social-details .genially-social-user-info .genially-social-user-more-info .genially-social-author,
+.genially-social-info .genially-social-wrapper .genially-social-details .genially-social-user-info .genially-social-user-more-info .genially-social-creation {
+    font-size: 0.6875rem;
+  }
+  .genially-social-info .genially-social-wrapper .genially-social-details .genially-social-user-info .genially-social-user-more-info .genially-social-author {
+    margin-bottom: 0.275rem;
+  }
+  .genially-social-info .genially-social-wrapper .genially-social-details .genially-social-user-info .genially-social-user-more-info .genially-social-creation > span {
+    margin-left: 0.1375rem;
+  }
+}
+@media (max-width: 600px) {
+  .genially-social-info .genially-social-wrapper .genially-social-details .genially-social-user-info .avatar, .genially-social-info .genially-social-wrapper .genially-social-details .genially-social-user-info .workspaceAvatar {
+    min-width: 3rem;
+    min-height: 2rem;
+  }
+}
+@media (max-width: 600px) {
+  .genially-social-info .genially-social-wrapper .genially-social-details .genially-social-stats .genially-social-view-reusable {
+    font-size: 0.625rem;
+  }
+  .genially-social-info .genially-social-wrapper .genially-social-details .genially-social-stats .genially-social-stat {
+    margin-bottom: 0.6875rem;
+  }
+  .genially-social-info .genially-social-wrapper .genially-social-details .genially-social-stats .genially-social-stat svg {
+    max-width: 1.03125rem;
+    height: 0.875rem;
+  }
+  .genially-social-info .genially-social-wrapper .genially-social-details .genially-social-stats .genially-social-stat span {
+    font-size: 0.6875rem;
+    margin-left: 0.34375rem;
+  }
+  .genially-social-info .genially-social-wrapper .genially-social-details .genially-social-stats .genially-social-stat .social-page-stats-texts {
+    display: none;
+  }
+}
+@media (max-width: 600px) {
+  .genially-social-info .genially-social-wrapper .genially-social-details .genially-social-report svg {
+    max-width: 1.03125rem;
+    height: 0.875rem;
+  }
+  .genially-social-info .genially-social-wrapper .genially-social-details .genially-social-report a {
+    font-size: 0.6875rem;
+    margin-left: 0.34375rem;
+  }
+}
+@media (max-width: 600px) {
+  .genially-social-inspiration {
+    padding: 0;
+  }
+  .genially-social-inspiration .genially-social-wrapper {
+    border-top: 0;
+    border-bottom: 0;
+    padding-top: 0 !important;
+  }
+  .genially-social-inspiration .genially-social-geniallys {
+    border-bottom: 0.0625rem solid #c7c3d3;
+  }
+  .genially-social-inspiration .genially-social-geniallys .genially-social-one-genially-container {
+    flex-basis: 100%;
+    max-width: 100%;
+  }
+  .genially-social-inspiration .genially-social-geniallys .genially-social-one-genially-container .genially-social-one-genially {
+    padding-right: 0;
+  }
+  .genially-social-inspiration .genially-social-geniallys .genially-social-one-genially-container .genially-social-one-genially .genially-social-genially-info {
+    max-width: 100%;
+  }
+  .genially-social-inspiration .genially-social-geniallys .genially-social-one-genially-container .genially-social-one-genially:nth-child(n+5) {
+    display: none;
+  }
+  .genially-social-inspiration .genially-social-geniallys .genially-social-one-genially-container .genially-social-one-genially:last-child {
+    display: block !important;
+  }
+  .genially-social-inspiration .genially-social-geniallys .genially-social-one-genially-container .genially-social-one-genially:last-child .link-call-to-action p {
+    max-width: 90%;
+  }
+}
+@media (max-width: 600px) {
+  .genially-social-transcriptions {
+    padding-top: 2.75rem;
+  }
+  .genially-social-transcriptions .genially-social-wrapper {
+    padding-top: 0 !important;
+  }
+  .genially-social-transcriptions .genially-social-wrapper .genially-social-texts-transcriptions-wrapper {
+    padding-bottom: 0;
+  }
+  .genially-social-transcriptions .genially-social-wrapper .genially-social-texts-transcriptions-wrapper .genially-social-texts-transcriptions {
+    font-size: 0.6875rem;
+  }
+}
+@media (max-width: 600px) {
+  .genially-social-footer {
+    padding-top: 1.375rem;
+  }
+  .genially-social-footer .genially-social-top-footer .genially-social-column {
+    margin-bottom: 2.0625rem;
+  }
+  .genially-social-footer .genially-social-top-footer .genially-social-column p {
+    font-size: 0.6875rem;
+  }
+  .genially-social-footer .genially-social-top-footer .genially-social-column .genially-social-title-footer {
+    margin-top: 0;
+    margin-bottom: 0.6875rem;
+    line-height: 1;
+    font-size: 0.8125rem;
+  }
+  .genially-social-footer .genially-social-top-footer .genially-social-column .genially-social-follow-me {
+    margin-top: 2.0625rem;
+  }
+  .genially-social-footer .genially-social-top-footer .genially-social-column .genially-social-open-dropdown svg {
+    width: 0.4583333333rem;
+    height: 0.4583333333rem;
+  }
+  .genially-social-footer .genially-social-top-footer .genially-social-column ul li a {
+    font-size: 0.6875rem;
+  }
+  .genially-social-footer .genially-social-top-footer .genially-social-column .genially-social-social-networks li img {
+    width: 1.375rem;
+    height: 1.375rem;
+  }
+  .genially-social-footer .genially-social-bottom-footer .genially-social-legals {
+    flex-basis: 66.66%;
+    text-align: left;
+  }
+  .genially-social-footer .genially-social-bottom-footer .genially-social-legals a {
+    font-size: 0.6875rem;
+  }
+  .genially-social-footer .genially-social-bottom-footer .genially-social-legals a:first-child {
+    margin-left: 0;
+  }
+  .genially-social-footer .genially-social-bottom-footer div:last-child {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+/* Portrait */
+@media screen and (orientation: portrait) {
+  /* Portrait styles here */
+  .genially-social-container-genially.genially-horizontal {
+    height: 80vh;
+  }
+}
+#onetrust-pc-sdk {
+  font-family: "Schibsted Grotesk";
+}
+#onetrust-pc-sdk .ot-pc-footer-logo {
+  display: none;
+}
+
+#onetrust-consent-sdk {
+  font-family: "Schibsted Grotesk";
+}
+#onetrust-consent-sdk #onetrust-policy #onetrust-policy-title {
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px;
+  text-align: left;
+  color: #f9f8fc;
+  padding-bottom: 8px;
+}
+#onetrust-consent-sdk #onetrust-policy #onetrust-policy-text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 16px;
+  color: #f9f8fc;
+  padding-bottom: 40px;
+}
+#onetrust-consent-sdk #onetrust-button-group #onetrust-accept-btn-handler {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 16px;
+  text-align: center;
+  color: #f9f8fc;
+}
+#onetrust-consent-sdk #onetrust-button-group #onetrust-pc-btn-handler {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 16px;
+  text-align: center;
+  color: #f9f8fc;
+}
+#onetrust-consent-sdk #onetrust-banner-sdk {
+  background: rgba(18, 18, 18, 0.9);
+  border-radius: 8px;
+  animation-duration: 0.5s !important;
+}
+#onetrust-consent-sdk #onetrust-banner-sdk a {
+  color: #f9f8fc;
+}
+#onetrust-consent-sdk #onetrust-banner-sdk a:hover {
+  color: white;
+}
